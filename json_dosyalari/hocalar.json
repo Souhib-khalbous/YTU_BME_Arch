@@ -32,8 +32,10 @@
             "ad": "Prof. Dr. Kamuran A. KADIPAŞAOĞLU",
             "ofis": "A-205",
             "link": "https://avesis.yildiz.edu.tr/kamuran",
-            "erkek_mi": true,
-            "dersler": [],
+            "erkek_mi": false,
+            "dersler": [
+                "Biomedical Modeling & Simulation"
+            ],
             "hoca_aktif_gorevde_mi": true
         },
         {

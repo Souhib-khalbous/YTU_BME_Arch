@@ -190,7 +190,10 @@
             "donem": "Güz",
             "tip": "Zorunlu",
             "dersi_veren_hocalar": [],
-            "guncel_mi": true
+            "guncel_mi": true,
+            "kolaylik_puani": 50,
+            "gereklilik_puani": 100,
+            "oy_sayisi": 1
         },
         {
             "ad": "Circuit Theory",
@@ -333,7 +336,12 @@
             "yil": 3,
             "donem": "Bahar",
             "tip": "Zorunlu",
-            "dersi_veren_hocalar": [],
+            "dersi_veren_hocalar": [
+                {
+                    "ad": "Prof. Dr. Kamuran A. KADIPAŞAOĞLU",
+                    "kisaltma": "KAK"
+                }
+            ],
             "guncel_mi": true
         },
         {

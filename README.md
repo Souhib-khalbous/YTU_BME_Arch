@@ -1,6 +1,6 @@
 # 📖 Yıldız Teknik Üniversitesi Biyomedikal Mühendisliği Ders Notları
 
-Bu repository, Yıldız Teknik Üniversitesi BİYOMEDİKAL Mühendisliği bölümünde verilen derslerin notları, örnek soruları ve ilgili kaynakları barındırmaktadır. Öğrencilerin dersleri daha etkin bir şekilde öğrenmelerini desteklemek amacıyla hazırlanmıştır.
+Bu repository, Yıldız Teknik Üniversitesi Biyomedikal Mühendisliği bölümünde verilen derslerin notları, örnek soruları ve ilgili kaynakları barındırmaktadır. Öğrencilerin dersleri daha etkin bir şekilde öğrenmelerini desteklemek amacıyla hazırlanmıştır.
 
  ## 🗣️ Geri Bildirimde Bulunun
 
@@ -161,7 +161,9 @@ Bu repository, Yıldız Teknik Üniversitesi BİYOMEDİKAL Mühendisliği bölü
 #### 📘 Biochemistry 
   - 🏷️ **Ders Tipi:** Zorunlu
   - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
+    - ✅ Dersi Kolay Geçer Miyim: ★★★★★☆☆☆☆☆
+    - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★★★★★★★★★★
+    - ℹ️ Yıldızlar 1 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
   - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//2-1/Biochemistry)
 
 
@@ -326,6 +328,8 @@ Bu repository, Yıldız Teknik Üniversitesi BİYOMEDİKAL Mühendisliği bölü
   - 🏷️ **Ders Tipi:** Zorunlu
   - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
+  - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
+    - [KAK](#-prof-dr-kamuran-a-kadipaşaoğlu)
   - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//3-2/Biomedical%20Modeling%20&%20Simulation)
 
 
@@ -495,13 +499,13 @@ Bu repository, Yıldız Teknik Üniversitesi BİYOMEDİKAL Mühendisliği bölü
 
 
 
-### 👨‍🏫 Prof. Dr. Kamuran A. KADIPAŞAOĞLU 
+### 👩‍🏫 Prof. Dr. Kamuran A. KADIPAŞAOĞLU 
 - 🚪 **Ofis:** A-205
 - 🔗 **Araştırma Sayfası:** [https://avesis.yildiz.edu.tr/kamuran](https://avesis.yildiz.edu.tr/kamuran)
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Siz de [linkten](https://forms.gle/iJa1Ebn9kCGTDu1Y9) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
-  - 📖 Ders bilgileri bulunamadı.
+  - 📖 [Biomedical Modeling & Simulation](#-biomedical-modeling--simulation)
 - ⭐ **Yıldız Sayıları:**
   - 🎭 Dersi Zevkli Anlatır Mı:	bilinmiyor
   - 🛣️ Dersi Kolay Geçer Miyim:	bilinmiyor
