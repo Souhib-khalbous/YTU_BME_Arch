@@ -1,0 +1,86 @@
+{
+    "bolum_adi": "Hocalar",
+    "bolum_aciklamasi": "Bu bölüm, Yıldız Teknik Üniversitesi Biyomedikal Mühendisliği bölümündeki hocaların detaylı bilgilerini içerir. Hocaların adları, ofis bilgileri, araştırma sayfalarının bağlantıları ve verdikleri bazı dersler bu bölümde listelenmektedir. Öğrenciler ve diğer ilgililer için hocalar hakkında temel bilgiler ve iletişim detayları sunulmaktadır. Hocaların puanlamaları tamamen subjektiftir ve  0-10 yıldız arasında yapılmıştır.",
+    "hocalar": [
+        {
+            "ad": "Dr. İsmail CANTÜRK",
+            "ofis": "B110",
+            "link": "https://avesis.yildiz.edu.tr/icanturk",
+            "erkek_mi": true,
+            "dersler": [
+                "Electronic Analogy"
+            ],
+            "hoca_aktif_gorevde_mi": true
+        },
+        {
+            "ad": "Prof. Dr. Mihrigül ALTAN",
+            "ofis": "",
+            "link": "",
+            "erkek_mi": false,
+            "dersler": [],
+            "hoca_aktif_gorevde_mi": true
+        },
+        {
+            "ad": "Prof. Dr. Taylan YETKİN",
+            "ofis": "D-024",
+            "link": "https://avesis.yildiz.edu.tr/tyetkin/dokumanlar",
+            "erkek_mi": false,
+            "dersler": [],
+            "hoca_aktif_gorevde_mi": true
+        },
+        {
+            "ad": "Prof. Dr. Kamuran A. KADIPAŞAOĞLU",
+            "ofis": "A-205",
+            "link": "https://avesis.yildiz.edu.tr/kamuran",
+            "erkek_mi": true,
+            "dersler": [],
+            "hoca_aktif_gorevde_mi": true
+        },
+        {
+            "ad": "Doç. Dr. Ali AKPEK",
+            "ofis": "C-109",
+            "link": "https://avesis.yildiz.edu.tr/aliakpek",
+            "erkek_mi": true,
+            "dersler": [
+                "Fluid Mechanics"
+            ],
+            "hoca_aktif_gorevde_mi": true
+        },
+        {
+            "ad": "Doç. Dr. Sakip ÖNDER",
+            "ofis": "C-308",
+            "link": "https://avesis.yildiz.edu.tr/sonder/dokumanlar",
+            "erkek_mi": true,
+            "dersler": [],
+            "hoca_aktif_gorevde_mi": true
+        },
+        {
+            "ad": "Prof. Dr. Osman GÜNAY",
+            "ofis": "B-B001",
+            "link": "https://avesis.yildiz.edu.tr/ogunay",
+            "erkek_mi": true,
+            "dersler": [],
+            "hoca_aktif_gorevde_mi": true
+        },
+        {
+            "ad": "Dr. Görkem SERBES",
+            "ofis": "C317",
+            "link": "https://avesis.yildiz.edu.tr/gserbes",
+            "erkek_mi": true,
+            "dersler": [],
+            "hoca_aktif_gorevde_mi": true
+        },
+        {
+            "ad": "Dr. Görke GÜREL PEKÖZER",
+            "ofis": "C-311",
+            "link": "https://avesis.yildiz.edu.tr/gpekozer",
+            "erkek_mi": false,
+            "dersler": [],
+            "hoca_aktif_gorevde_mi": true
+        }
+    ],
+    "en_populer_hoca": {
+        "hoca_adi": "MEVCUT DEĞİL",
+        "oy_sayisi": 0
+    }
+}

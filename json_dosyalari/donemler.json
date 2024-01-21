@@ -1,0 +1,58 @@
+{
+    "donemler": [
+        {
+            "donem_adi": "1. Semester",
+            "yil": 1,
+            "donem": "Güz",
+            "genel_tavsiyeler": []
+        },
+        {
+            "donem_adi": "2. Semester",
+            "yil": 1,
+            "donem": "Bahar",
+            "genel_tavsiyeler": []
+        },
+        {
+            "donem_adi": "3. Semester",
+            "yil": 2,
+            "donem": "Güz",
+            "genel_tavsiyeler": []
+        },
+        {
+            "donem_adi": "4. Semester",
+            "yil": 2,
+            "donem": "Bahar",
+            "genel_tavsiyeler": []
+        },
+        {
+            "donem_adi": "5. Semester",
+            "yil": 3,
+            "donem": "Güz",
+            "genel_tavsiyeler": []
+        },
+        {
+            "donem_adi": "6. Semester",
+            "yil": 3,
+            "donem": "Bahar",
+            "genel_tavsiyeler": []
+        },
+        {
+            "donem_adi": "7. Semester",
+            "yil": 4,
+            "donem": "Güz",
+            "genel_tavsiyeler": []
+        },
+        {
+            "donem_adi": "8. Semester",
+            "yil": 4,
+            "donem": "Bahar",
+            "genel_tavsiyeler": []
+        },
+        {
+            "donem_adi": "Meslek Seçmeli",
+            "yil": 0,
+            "donem": "",
+            "genel_tavsiyeler": []
+        }
+    ]
+}

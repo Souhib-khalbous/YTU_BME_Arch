@@ -1,0 +1,500 @@
+{
+    "dersler": [
+        {
+            "ad": "Image Processing",
+            "yil": 0,
+            "donem": "yok",
+            "tip": "Mesleki Seçmeli",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true,
+            "faydali_olabilecek_kaynaklar": [
+                "Bu ders için kaynak [link](www.google.com)"
+            ]
+        },
+        {
+            "ad": "Electronic Analogy",
+            "yil": 2,
+            "donem": "Bahar",
+            "tip": "Zorunlu",
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "İC",
+                    "ad": "Dr. İsmail CANTÜRK"
+                }
+            ],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Mathematics 1",
+            "yil": 1,
+            "donem": "Güz",
+            "tip": "Zorunlu",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Physics 1",
+            "yil": 1,
+            "donem": "Güz",
+            "tip": "Zorunlu",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Fluid Mechanics",
+            "yil": 0,
+            "donem": "yok",
+            "tip": "Mesleki Seçmeli",
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "AA",
+                    "ad": "Doç. Dr. Ali AKPEK"
+                }
+            ],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Social Elective 1-1",
+            "yil": 2,
+            "donem": "Güz",
+            "tip": "Seçmeli",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        },
+        {
+            "ad": "General Chemistry",
+            "yil": 1,
+            "donem": "Güz",
+            "tip": "Zorunlu",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Introduction to Biomedical Engineering",
+            "yil": 1,
+            "donem": "Güz",
+            "tip": "Zorunlu",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Introductory Computer Sciences",
+            "yil": 1,
+            "donem": "Güz",
+            "tip": "Zorunlu",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Advanced English 1",
+            "yil": 1,
+            "donem": "Güz",
+            "tip": "Zorunlu",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true,
+            "kolaylik_puani": 60,
+            "gereklilik_puani": 30,
+            "oy_sayisi": 1
+        },
+        {
+            "ad": "Turkish language 1",
+            "yil": 1,
+            "donem": "Güz",
+            "tip": "Zorunlu",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Mathematics 2",
+            "yil": 1,
+            "donem": "Bahar",
+            "tip": "Zorunlu",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Physics 2",
+            "yil": 1,
+            "donem": "Bahar",
+            "tip": "Zorunlu",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Probability& Biostatistics",
+            "yil": 1,
+            "donem": "Bahar",
+            "tip": "Zorunlu",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Cell Biology",
+            "yil": 1,
+            "donem": "Bahar",
+            "tip": "Zorunlu",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Computer Aided Design",
+            "yil": 1,
+            "donem": "Bahar",
+            "tip": "Zorunlu",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": false
+        },
+        {
+            "ad": "Advanced English 2",
+            "yil": 1,
+            "donem": "Bahar",
+            "tip": "Zorunlu",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Turkish language 2",
+            "yil": 1,
+            "donem": "Bahar",
+            "tip": "Zorunlu",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Linear Algebra",
+            "yil": 2,
+            "donem": "Güz",
+            "tip": "Zorunlu",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Differential Equations",
+            "yil": 1,
+            "donem": "Güz",
+            "tip": "Zorunlu",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Introduction to Human Anatomy & Physiology",
+            "yil": 2,
+            "donem": "Güz",
+            "tip": "Zorunlu",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Biochemistry",
+            "yil": 2,
+            "donem": "Güz",
+            "tip": "Zorunlu",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Circuit Theory",
+            "yil": 2,
+            "donem": "Güz",
+            "tip": "Zorunlu",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Occupational Health And Safety 1",
+            "yil": 2,
+            "donem": "Güz",
+            "tip": "Zorunlu",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Elective 1-1",
+            "yil": 2,
+            "donem": "Güz",
+            "tip": "Seçmeli",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Signals & Systems",
+            "yil": 2,
+            "donem": "Bahar",
+            "tip": "Zorunlu",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Numerical Methods in Biomedical Engineering",
+            "yil": 2,
+            "donem": "Bahar",
+            "tip": "Zorunlu",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Analog Electronics",
+            "yil": 2,
+            "donem": "Bahar",
+            "tip": "Zorunlu",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Logic Design",
+            "yil": 2,
+            "donem": "Bahar",
+            "tip": "Zorunlu",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Occupational Health And Safety 2",
+            "yil": 2,
+            "donem": "Bahar",
+            "tip": "Zorunlu",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Social Elective 2-1",
+            "yil": 2,
+            "donem": "Bahar",
+            "tip": "Seçmeli",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        },
+        {
+            "ad": "General Internship",
+            "yil": 2,
+            "donem": "Bahar",
+            "tip": "Zorunlu",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": false
+        },
+        {
+            "ad": "Introduction to Microcontroller Programming",
+            "yil": 3,
+            "donem": "Güz",
+            "tip": "Zorunlu",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Biomechanics 1",
+            "yil": 3,
+            "donem": "Güz",
+            "tip": "Zorunlu",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Biosignal Processing",
+            "yil": 3,
+            "donem": "Güz",
+            "tip": "Zorunlu",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Biothermodynamics",
+            "yil": 3,
+            "donem": "Güz",
+            "tip": "Zorunlu",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Principles of Atatürk and History of Modern Turkey 1",
+            "yil": 3,
+            "donem": "Güz",
+            "tip": "Zorunlu",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Occupational Elective 1-1",
+            "yil": 0,
+            "donem": "yok",
+            "tip": "Mesleki Seçmeli",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Occupational Elective 2-1",
+            "yil": 0,
+            "donem": "yok",
+            "tip": "Mesleki Seçmeli",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Biomedical Modeling & Simulation",
+            "yil": 3,
+            "donem": "Bahar",
+            "tip": "Zorunlu",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Medical Instrumentation",
+            "yil": 3,
+            "donem": "Bahar",
+            "tip": "Zorunlu",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Biomaterials",
+            "yil": 3,
+            "donem": "Bahar",
+            "tip": "Zorunlu",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Biomechanics 2",
+            "yil": 3,
+            "donem": "Bahar",
+            "tip": "Zorunlu",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Professional Internship",
+            "yil": 3,
+            "donem": "Bahar",
+            "tip": "Zorunlu",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Principles of Atatürk and History of Modern Turkey 2",
+            "yil": 3,
+            "donem": "Bahar",
+            "tip": "Zorunlu",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Occupational Elective 1-2",
+            "yil": 0,
+            "donem": "yok",
+            "tip": "Mesleki Seçmeli",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Engineering Design",
+            "yil": 4,
+            "donem": "Güz",
+            "tip": "Zorunlu",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Medical Imaging",
+            "yil": 4,
+            "donem": "Güz",
+            "tip": "Zorunlu",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Occupational Elective 1-3",
+            "yil": 0,
+            "donem": "yok",
+            "tip": "Mesleki Seçmeli",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Occupational Elective 1-4",
+            "yil": 0,
+            "donem": "yok",
+            "tip": "Mesleki Seçmeli",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": false
+        },
+        {
+            "ad": "Occupational Elective 2-2",
+            "yil": 0,
+            "donem": "yok",
+            "tip": "Mesleki Seçmeli",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Social Elective 2-2",
+            "yil": 4,
+            "donem": "Güz",
+            "tip": "Seçmeli",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Elective 2-1",
+            "yil": 4,
+            "donem": "Güz",
+            "tip": "Seçmeli",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Graduation Thesis",
+            "yil": 4,
+            "donem": "Bahar",
+            "tip": "Zorunlu",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Therapeutic and Prosthetic Devices",
+            "yil": 4,
+            "donem": "Bahar",
+            "tip": "Zorunlu",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Occupational Elective 1-5",
+            "yil": 0,
+            "donem": "yok",
+            "tip": "Mesleki Seçmeli",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Occupational Elective 2-3",
+            "yil": 0,
+            "donem": "yok",
+            "tip": "Mesleki Seçmeli",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Occupational Elective 2-4",
+            "yil": 0,
+            "donem": "yok",
+            "tip": "Mesleki Seçmeli",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Social Elective 1-2",
+            "yil": 4,
+            "donem": "Bahar",
+            "tip": "Seçmeli",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        }
+    ],
+    "bolum_adi": "Dersler",
+    "bolum_aciklamasi": "Bu bölümde, tüm dersler hakkında detaylı bilgiler ve kaynaklar bulunmaktadır. Öğrenciler bu bölümü kullanarak ders materyallerine ve içeriklerine ulaşabilirler.",
+    "ders_klasoru_bulunamadi_mesaji": "Henüz dersle alakalı bir döküman ne yazık ki yok. Katkıda bulunmak istersen lütfen bizimle iletişime geç...",
+    "guncel_olmayan_ders_aciklamasi": "Bu ders artık müfredata dahil değildir. Ya tamamen kaldırılmış, ya ismi ve içeriği güncellenmiş ya da birleştirilmiş olabilir.",
+    "en_populer_ders": {
+        "ders_adi": "Advanced English 1",
+        "oy_sayisi": 1
+    }
+}

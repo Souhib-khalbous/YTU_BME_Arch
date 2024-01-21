@@ -1,0 +1,24 @@
+{
+    "baslik": "Repo Kullanımı",
+    "talimat": "Talimatlar",
+    "kavram": "Kavramlar",
+    "aciklama": "Açıklamalar",
+    "talimatlar": [
+        "1. Semester - 1. Sınıf 1. Dönem Demektir"
+    ],
+    "kavramlar": [
+        {
+            "kavram": "AGNO",
+            "aciklamalar": [
+                "AGNO dönem içindeki derslerin ağırlıklı ortlamasını temsil eder."
+            ]
+        },
+        {
+            "kavram": "Staj",
+            "aciklamalar": [
+                "Staj 30 iş günü yapılır."
+            ]
+        }
+    ],
+    "aciklamalar": []
+}
