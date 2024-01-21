@@ -1,6 +1,6 @@
 # 📖 Yıldız Teknik Üniversitesi Biyomedikal Mühendisliği Ders Notları
 
-Bu repository, Yıldız Teknik Üniversitesi Biyomedikal Mühendisliği bölümünde verilen derslerin notları, örnek soruları ve ilgili kaynakları barındırmaktadır. Öğrencilerin dersleri daha etkin bir şekilde öğrenmelerini desteklemek amacıyla hazırlanmıştır.
+Bu repository, Yıldız Teknik Üniversitesi BİYOMEDİKAL Mühendisliği bölümünde verilen derslerin notları, örnek soruları ve ilgili kaynakları barındırmaktadır. Öğrencilerin dersleri daha etkin bir şekilde öğrenmelerini desteklemek amacıyla hazırlanmıştır.
 
  ## 🗣️ Geri Bildirimde Bulunun
 
