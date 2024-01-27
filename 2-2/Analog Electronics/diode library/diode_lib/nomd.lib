@@ -1,0 +1,58 @@
+* Sample standard device library
+*
+*  Copyright Cadence Design Systems, Inc. 2014 All Rights Reserved.
+* This is a reduced version of PSpice A/D's standard parts libraries. Some 
+* components from several types of component libraries have been included
+* here.  You are welcome to make as many copies of it as you find convenient.
+*
+* $Revision:   1.8  $
+* $Author:   HIRASUNA  $
+* $Date:   14 Mar 2014 11:43:36  $
+*
+* ---------------------------------------------------------------------------
+*
+* The model library included with the production version of PSpice A/D
+* includes over 14,000 analog devices, and over 1,800 digital devices.
+*
+*
+* It takes time for PSpice to scan a library file.  To speed this up, PSpice
+* creates an index file, called <filename>.IND. The index file is re-created
+* whenever PSpice senses that the library file has changed.
+*
+.lib "breakout.lib"             ; generic devices for schematic capture
+
+* "regular" device libraries
+
+.lib "eval.lib"                 ; reduced version of PSpice A/D's standard 
+                                ; parts libraries. Some components from 
+                                ; each of several types of component 
+                                ; libraries have been included here.
+.lib "evalp.lib"                ; sample version of PSpice parameterized 
+                                ; parts libraries. 
+.lib "templates.lib"            ; dummy template library 
+
+.lib "evalAA.lib"		; Adv Analysis Parts.
+.lib "dig_prim.lib"		; Digital primitive Parts. Added to enable quick place in Lite mode
+.lib "anl_misc.lib"		; Added to enable VCO app in lite Mode.
+.lib "7400.lib"			; Following libs added to Place part browser
+.lib "74ac.lib"			;
+.lib "74act.lib"		;
+.lib "74als.lib"		;
+.lib "74as.lib"			;
+.lib "74f.lib"			;
+.lib "74h.lib"			;	
+.lib "74hc.lib"			;
+.lib "74hct.lib"		;	
+.lib "74l.lib"			;
+.lib "74ls.lib"			;
+.lib "74s.lib"			;
+.lib "cd4000.lib"		;
+.lib "dig_abm.lib"		;
+.lib "dig_ecl.lib"		;
+.lib "dig_gal.lib"		;
+.lib "dig_io.lib"		;
+.lib "dig_misc.lib"		;
+.lib "dig_pal.lib"		;
+.lib "diode.lib"        ;
+* end of library file
+
