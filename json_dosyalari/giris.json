@@ -1,5 +1,7 @@
 {
-    "icindekiler": [],
+    "icindekiler": [
+        "[Repo Kullanımı](#-repo-kullanımı)"
+    ],
     "baslik": "Yıldız Teknik Üniversitesi Biyomedikal Mühendisliği Ders Notları",
     "aciklama": "Bu repository, Yıldız Teknik Üniversitesi Biyomedikal Mühendisliği bölümünde verilen derslerin notları, örnek soruları ve ilgili kaynakları barındırmaktadır. Öğrencilerin dersleri daha etkin bir şekilde öğrenmelerini desteklemek amacıyla hazırlanmıştır."
 }

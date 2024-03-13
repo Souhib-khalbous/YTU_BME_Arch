@@ -2,7 +2,9 @@
     "katkida_bulunanlar": [
         {
             "ad": "Souhaib Khalbuss",
-            "github_link": "https://github.com/Souhib-khalbous"
+            "github_link": "https://github.com/Souhib-khalbous",
+            "iletisim_bilgileri": [],
+            "katkida_bulunma_orani": "Çok Az"
         }
     ],
     "bolum_adi": "Katkıda Bulunanlar",

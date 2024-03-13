@@ -14,7 +14,16 @@ Bu repository, Yıldız Teknik Üniversitesi Biyomedikal Mühendisliği bölüm�
 <img src="https://komarev.com/ghpvc/?username=baselkelziye&label=Görüntülenme+Sayısı" width="400" height="auto"/>
 </p>
 
-## 📌 İçindekiler
+<details>
+<summary><b>🗂 İçindekiler</b></summary>
+
+## 🗂 İçindekiler
+
+- 🔗 [Repo Kullanımı](#-repo-kullanımı)
+</details>
+
+<details>
+<summary><b>🛠 Repo Kullanımı</b></summary>
 
 
 
@@ -33,10 +42,15 @@ Bu repository, Yıldız Teknik Üniversitesi Biyomedikal Mühendisliği bölüm�
   - 📘 AGNO dönem içindeki derslerin ağırlıklı ortlamasını temsil eder.
 - 💡 **Staj**
   - 📘 Staj 30 iş günü yapılır.
+</details>
+
+<details>
+<summary><b>📖 Dersler</b></summary>
 
 
 
-## 📚 Dersler 
+
+## 📖 Dersler
 📄 Bu bölümde, tüm dersler hakkında detaylı bilgiler ve kaynaklar bulunmaktadır. Öğrenciler bu bölümü kullanarak ders materyallerine ve içeriklerine ulaşabilirler.
 
 
@@ -72,6 +86,8 @@ Bu repository, Yıldız Teknik Üniversitesi Biyomedikal Mühendisliği bölüm�
   - 🏷️ **Ders Tipi:** Zorunlu
   - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
+  - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
+    - [KAK](#-prof-dr-kamuran-a-kadipaşaoğlu)
   - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//1-1/Introduction%20to%20Biomedical%20Engineering)
 
 
@@ -79,6 +95,8 @@ Bu repository, Yıldız Teknik Üniversitesi Biyomedikal Mühendisliği bölüm�
   - 🏷️ **Ders Tipi:** Zorunlu
   - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
+  - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
+    - [GS](#-dr-görkem-serbes)
   - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//1-1/Introductory%20Computer%20Sciences)
 
 
@@ -92,7 +110,9 @@ Bu repository, Yıldız Teknik Üniversitesi Biyomedikal Mühendisliği bölüm�
 #### 📘 Physics 1 
   - 🏷️ **Ders Tipi:** Zorunlu
   - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
+    - ✅ Dersi Kolay Geçer Miyim: ★★★★☆☆☆☆☆☆
+    - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★☆☆☆☆☆☆☆☆☆
+    - ℹ️ Yıldızlar 1 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
   - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//1-1/Physics%201)
 
 
@@ -109,43 +129,39 @@ Bu repository, Yıldız Teknik Üniversitesi Biyomedikal Mühendisliği bölüm�
   - 🏷️ **Ders Tipi:** Zorunlu
   - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//1-1/Advanced%20English%201)
+  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//1-2/Advanced%20English%202)
 
 
 #### 📘 Cell Biology 
   - 🏷️ **Ders Tipi:** Zorunlu
   - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
+  - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
+    - [GGP](#-dr-görke-gürel-peközer)
+    - [KAK](#-prof-dr-kamuran-a-kadipaşaoğlu)
   - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//1-2/Cell%20Biology)
-
-
-#### 📘 Computer Aided Design 
-  - 🏷️ **Ders Tipi:** Zorunlu
-  - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//1-2/Computer%20Aided%20Design)
-  - ℹ️ Dersin içeriği güncel değil
-    - Bu ders artık müfredata dahil değildir. Ya tamamen kaldırılmış, ya ismi ve içeriği güncellenmiş ya da birleştirilmiş olabilir.
 
 
 #### 📘 Mathematics 2 
   - 🏷️ **Ders Tipi:** Zorunlu
   - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//1-1/Mathematics%201)
+  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//1-2/Mathematics%202)
 
 
 #### 📘 Physics 2 
   - 🏷️ **Ders Tipi:** Zorunlu
   - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//1-1/Physics%201)
+  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//1-2/Physics%202)
 
 
 #### 📘 Probability& Biostatistics 
   - 🏷️ **Ders Tipi:** Zorunlu
   - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
+  - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
+    - [OG](#-prof-dr-osman-günay)
   - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//1-2/Probability&%20Biostatistics)
 
 
@@ -153,7 +169,7 @@ Bu repository, Yıldız Teknik Üniversitesi Biyomedikal Mühendisliği bölüm�
   - 🏷️ **Ders Tipi:** Zorunlu
   - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//1-1/Turkish%20language%201)
+  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//1-2/Turkish%20language%202)
 
 ### 🗓 2. Yıl - Güz
 
@@ -164,6 +180,8 @@ Bu repository, Yıldız Teknik Üniversitesi Biyomedikal Mühendisliği bölüm�
     - ✅ Dersi Kolay Geçer Miyim: ★★★★★☆☆☆☆☆
     - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★★★★★★★★★★
     - ℹ️ Yıldızlar 1 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
+  - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
+    - [GGP](#-dr-görke-gürel-peközer)
   - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//2-1/Biochemistry)
 
 
@@ -171,6 +189,8 @@ Bu repository, Yıldız Teknik Üniversitesi Biyomedikal Mühendisliği bölüm�
   - 🏷️ **Ders Tipi:** Zorunlu
   - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
+  - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
+    - [GS](#-dr-görkem-serbes)
   - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//2-1/Circuit%20Theory)
 
 
@@ -185,6 +205,8 @@ Bu repository, Yıldız Teknik Üniversitesi Biyomedikal Mühendisliği bölüm�
   - 🏷️ **Ders Tipi:** Zorunlu
   - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
+  - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
+    - [SÖ](#-doç-dr-sakip-önder)
   - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//2-1/Introduction%20to%20Human%20Anatomy%20&%20Physiology)
 
 
@@ -206,7 +228,7 @@ Bu repository, Yıldız Teknik Üniversitesi Biyomedikal Mühendisliği bölüm�
   - 🏷️ **Ders Tipi:** Seçmeli
   - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//2-2/Social%20Elective%202-1)
+  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//2-1/Social%20Elective%201-1)
 
 ### 🗓 2. Yıl - Bahar
 
@@ -215,6 +237,8 @@ Bu repository, Yıldız Teknik Üniversitesi Biyomedikal Mühendisliği bölüm�
   - 🏷️ **Ders Tipi:** Zorunlu
   - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
+  - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
+    - [İC](#-dr-i̇smail-cantürk)
   - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//2-2/Analog%20Electronics)
 
 
@@ -227,19 +251,12 @@ Bu repository, Yıldız Teknik Üniversitesi Biyomedikal Mühendisliği bölüm�
   - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//2-2/Electronic%20Analogy)
 
 
-#### 📘 General Internship 
-  - 🏷️ **Ders Tipi:** Zorunlu
-  - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//2-2/General%20Internship)
-  - ℹ️ Dersin içeriği güncel değil
-    - Bu ders artık müfredata dahil değildir. Ya tamamen kaldırılmış, ya ismi ve içeriği güncellenmiş ya da birleştirilmiş olabilir.
-
-
 #### 📘 Logic Design 
   - 🏷️ **Ders Tipi:** Zorunlu
   - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
+  - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
+    - [GS](#-dr-görkem-serbes)
   - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//2-2/Logic%20Design)
 
 
@@ -247,6 +264,8 @@ Bu repository, Yıldız Teknik Üniversitesi Biyomedikal Mühendisliği bölüm�
   - 🏷️ **Ders Tipi:** Zorunlu
   - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
+  - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
+    - [OG](#-prof-dr-osman-günay)
   - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//2-2/Numerical%20Methods%20in%20Biomedical%20Engineering)
 
 
@@ -254,13 +273,15 @@ Bu repository, Yıldız Teknik Üniversitesi Biyomedikal Mühendisliği bölüm�
   - 🏷️ **Ders Tipi:** Zorunlu
   - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//2-1/Occupational%20Health%20And%20Safety%201)
+  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//2-2/Occupational%20Health%20And%20Safety%202)
 
 
 #### 📘 Signals & Systems 
   - 🏷️ **Ders Tipi:** Zorunlu
   - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
+  - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
+    - [KAK](#-prof-dr-kamuran-a-kadipaşaoğlu)
   - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//2-2/Signals%20&%20Systems)
 
 
@@ -268,7 +289,6 @@ Bu repository, Yıldız Teknik Üniversitesi Biyomedikal Mühendisliği bölüm�
   - 🏷️ **Ders Tipi:** Seçmeli
   - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//2-2/Social%20Elective%202-1)
 
 ### 🗓 3. Yıl - Güz
 
@@ -277,6 +297,8 @@ Bu repository, Yıldız Teknik Üniversitesi Biyomedikal Mühendisliği bölüm�
   - 🏷️ **Ders Tipi:** Zorunlu
   - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
+  - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
+    - [AA](#-doç-dr-ali-akpek)
   - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//3-1/Biomechanics%201)
 
 
@@ -284,6 +306,8 @@ Bu repository, Yıldız Teknik Üniversitesi Biyomedikal Mühendisliği bölüm�
   - 🏷️ **Ders Tipi:** Zorunlu
   - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
+  - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
+    - [İC](#-dr-i̇smail-cantürk)
   - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//3-1/Biosignal%20Processing)
 
 
@@ -291,6 +315,8 @@ Bu repository, Yıldız Teknik Üniversitesi Biyomedikal Mühendisliği bölüm�
   - 🏷️ **Ders Tipi:** Zorunlu
   - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
+  - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
+    - [GGP](#-dr-görke-gürel-peközer)
   - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//3-1/Biothermodynamics)
 
 
@@ -298,6 +324,8 @@ Bu repository, Yıldız Teknik Üniversitesi Biyomedikal Mühendisliği bölüm�
   - 🏷️ **Ders Tipi:** Zorunlu
   - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
+  - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
+    - [İC](#-dr-i̇smail-cantürk)
   - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//3-1/Introduction%20to%20Microcontroller%20Programming)
 
 
@@ -314,6 +342,8 @@ Bu repository, Yıldız Teknik Üniversitesi Biyomedikal Mühendisliği bölüm�
   - 🏷️ **Ders Tipi:** Zorunlu
   - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
+  - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
+    - [SÖ](#-doç-dr-sakip-önder)
   - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//3-2/Biomaterials)
 
 
@@ -321,7 +351,9 @@ Bu repository, Yıldız Teknik Üniversitesi Biyomedikal Mühendisliği bölüm�
   - 🏷️ **Ders Tipi:** Zorunlu
   - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//3-1/Biomechanics%201)
+  - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
+    - [AA](#-doç-dr-ali-akpek)
+  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//3-2/Biomechanics%202)
 
 
 #### 📘 Biomedical Modeling & Simulation 
@@ -337,6 +369,8 @@ Bu repository, Yıldız Teknik Üniversitesi Biyomedikal Mühendisliği bölüm�
   - 🏷️ **Ders Tipi:** Zorunlu
   - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
+  - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
+    - [SÖ](#-doç-dr-sakip-önder)
   - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//3-2/Medical%20Instrumentation)
 
 
@@ -344,7 +378,7 @@ Bu repository, Yıldız Teknik Üniversitesi Biyomedikal Mühendisliği bölüm�
   - 🏷️ **Ders Tipi:** Zorunlu
   - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//3-1/Principles%20of%20Atatürk%20and%20History%20of%20Modern%20Turkey%201)
+  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//3-2/Principles%20of%20Atatürk%20and%20History%20of%20Modern%20Turkey%202)
 
 
 #### 📘 Professional Internship 
@@ -360,7 +394,6 @@ Bu repository, Yıldız Teknik Üniversitesi Biyomedikal Mühendisliği bölüm�
   - 🏷️ **Ders Tipi:** Seçmeli
   - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//2-1/Elective%201-1)
 
 
 #### 📘 Engineering Design 
@@ -374,6 +407,8 @@ Bu repository, Yıldız Teknik Üniversitesi Biyomedikal Mühendisliği bölüm�
   - 🏷️ **Ders Tipi:** Zorunlu
   - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
+  - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
+    - [OG](#-prof-dr-osman-günay)
   - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//4-1/Medical%20Imaging)
 
 
@@ -381,7 +416,7 @@ Bu repository, Yıldız Teknik Üniversitesi Biyomedikal Mühendisliği bölüm�
   - 🏷️ **Ders Tipi:** Seçmeli
   - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//2-2/Social%20Elective%202-1)
+  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//4-1/Social%20Elective%202-2)
 
 ### 🗓 4. Yıl - Bahar
 
@@ -397,13 +432,14 @@ Bu repository, Yıldız Teknik Üniversitesi Biyomedikal Mühendisliği bölüm�
   - 🏷️ **Ders Tipi:** Seçmeli
   - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//2-2/Social%20Elective%202-1)
 
 
 #### 📘 Therapeutic and Prosthetic Devices 
   - 🏷️ **Ders Tipi:** Zorunlu
   - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
+  - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
+    - [AA](#-doç-dr-ali-akpek)
   - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//4-2/Therapeutic%20and%20Prosthetic%20Devices)
 
 ### 🗓 Mesleki Seçmeli
@@ -429,65 +465,88 @@ Bu repository, Yıldız Teknik Üniversitesi Biyomedikal Mühendisliği bölüm�
   - 🏷️ **Ders Tipi:** Mesleki Seçmeli
   - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//Mesleki%20Seçmeli/Occupational%20Elective%201-2)
+  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//Mesleki%20Seçmeli/Occupational%20Elective%201-1)
 
 
 #### 📘 Occupational Elective 1-2 
   - 🏷️ **Ders Tipi:** Mesleki Seçmeli
   - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//Mesleki%20Seçmeli/Occupational%20Elective%201-2)
 
 
 #### 📘 Occupational Elective 1-3 
   - 🏷️ **Ders Tipi:** Mesleki Seçmeli
   - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//Mesleki%20Seçmeli/Occupational%20Elective%201-2)
-
-
-#### 📘 Occupational Elective 1-4 
-  - 🏷️ **Ders Tipi:** Mesleki Seçmeli
-  - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//Mesleki%20Seçmeli/Occupational%20Elective%201-2)
-  - ℹ️ Dersin içeriği güncel değil
-    - Bu ders artık müfredata dahil değildir. Ya tamamen kaldırılmış, ya ismi ve içeriği güncellenmiş ya da birleştirilmiş olabilir.
+  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//Mesleki%20Seçmeli/Occupational%20Elective%201-1)
 
 
 #### 📘 Occupational Elective 1-5 
   - 🏷️ **Ders Tipi:** Mesleki Seçmeli
   - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//Mesleki%20Seçmeli/Occupational%20Elective%201-2)
+  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//Mesleki%20Seçmeli/Occupational%20Elective%201-1)
 
 
 #### 📘 Occupational Elective 2-1 
   - 🏷️ **Ders Tipi:** Mesleki Seçmeli
   - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//Mesleki%20Seçmeli/Occupational%20Elective%201-2)
 
 
 #### 📘 Occupational Elective 2-2 
   - 🏷️ **Ders Tipi:** Mesleki Seçmeli
   - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//Mesleki%20Seçmeli/Occupational%20Elective%201-2)
+  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//Mesleki%20Seçmeli/Occupational%20Elective%202-2)
 
 
 #### 📘 Occupational Elective 2-3 
   - 🏷️ **Ders Tipi:** Mesleki Seçmeli
   - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//Mesleki%20Seçmeli/Occupational%20Elective%201-2)
+  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//Mesleki%20Seçmeli/Occupational%20Elective%202-2)
 
 
 #### 📘 Occupational Elective 2-4 
   - 🏷️ **Ders Tipi:** Mesleki Seçmeli
   - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//Mesleki%20Seçmeli/Occupational%20Elective%201-2)
+  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//Mesleki%20Seçmeli/Occupational%20Elective%202-2)
+
+### 🗓 Artık Güncel Müfredata Dahil Olmayan Dersler
+
+
+#### 📘 Computer Aided Design 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - ⭐ **Yıldız Sayıları:**
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//1-2/Computer%20Aided%20Design)
+  - ℹ️ Dersin içeriği güncel değil
+    - Bu ders artık müfredata dahil değildir. Ya tamamen kaldırılmış, ya ismi ve içeriği güncellenmiş ya da birleştirilmiş olabilir.
+
+
+#### 📘 General Internship 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - ⭐ **Yıldız Sayıları:**
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//2-2/General%20Internship)
+  - ℹ️ Dersin içeriği güncel değil
+    - Bu ders artık müfredata dahil değildir. Ya tamamen kaldırılmış, ya ismi ve içeriği güncellenmiş ya da birleştirilmiş olabilir.
+
+
+#### 📘 Occupational Elective 1-4 
+  - 🏷️ **Ders Tipi:** Mesleki Seçmeli
+  - ⭐ **Yıldız Sayıları:**
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//Mesleki%20Seçmeli/Occupational%20Elective%201-1)
+  - ℹ️ Dersin içeriği güncel değil
+    - Bu ders artık müfredata dahil değildir. Ya tamamen kaldırılmış, ya ismi ve içeriği güncellenmiş ya da birleştirilmiş olabilir.
+</details>
+
+<details>
+<summary><b>🎓 Hocalar</b></summary>
+
 
 
 
@@ -497,25 +556,26 @@ Bu repository, Yıldız Teknik Üniversitesi Biyomedikal Mühendisliği bölüm�
 
 
 
+### Profesörler
 
 
-### 👩‍🏫 Prof. Dr. Kamuran A. KADIPAŞAOĞLU 
+
+#### 👩‍🏫 Prof. Dr. Kamuran A. KADIPAŞAOĞLU 
 - 🚪 **Ofis:** A-205
 - 🔗 **Araştırma Sayfası:** [https://avesis.yildiz.edu.tr/kamuran](https://avesis.yildiz.edu.tr/kamuran)
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Siz de [linkten](https://forms.gle/iJa1Ebn9kCGTDu1Y9) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Biomedical Modeling & Simulation](#-biomedical-modeling--simulation)
+  - 📖 [Cell Biology](#-cell-biology)
+  - 📖 [Introduction to Biomedical Engineering](#-introduction-to-biomedical-engineering)
+  - 📖 [Signals & Systems](#-signals--systems)
 - ⭐ **Yıldız Sayıları:**
-  - 🎭 Dersi Zevkli Anlatır Mı:	bilinmiyor
-  - 🛣️ Dersi Kolay Geçer Miyim:	bilinmiyor
-  - 🧠 Dersi Öğrenir Miyim:	bilinmiyor
-  - 🎉 Derste Eğlenir Miyim:	bilinmiyor
   - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/GmgA72FXY9oYJ2iS6) anonim şekilde oylamaya katılabilirsiniz.
 
 
 
-### 👩‍🏫 Prof. Dr. Mihrigül ALTAN 
+#### 👩‍🏫 Prof. Dr. Mihrigül ALTAN 
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** []()
 - 💬 **Öğrenci Görüşleri:**
@@ -523,31 +583,25 @@ Bu repository, Yıldız Teknik Üniversitesi Biyomedikal Mühendisliği bölüm�
 - 📚 **Verdiği Dersler:**
   - 📖 Ders bilgileri bulunamadı.
 - ⭐ **Yıldız Sayıları:**
-  - 🎭 Dersi Zevkli Anlatır Mı:	bilinmiyor
-  - 🛣️ Dersi Kolay Geçer Miyim:	bilinmiyor
-  - 🧠 Dersi Öğrenir Miyim:	bilinmiyor
-  - 🎉 Derste Eğlenir Miyim:	bilinmiyor
   - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/GmgA72FXY9oYJ2iS6) anonim şekilde oylamaya katılabilirsiniz.
 
 
 
-### 👨‍🏫 Prof. Dr. Osman GÜNAY 
+#### 👨‍🏫 Prof. Dr. Osman GÜNAY 
 - 🚪 **Ofis:** B-B001
 - 🔗 **Araştırma Sayfası:** [https://avesis.yildiz.edu.tr/ogunay](https://avesis.yildiz.edu.tr/ogunay)
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Siz de [linkten](https://forms.gle/iJa1Ebn9kCGTDu1Y9) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
-  - 📖 Ders bilgileri bulunamadı.
+  - 📖 [Medical Imaging](#-medical-imaging)
+  - 📖 [Numerical Methods in Biomedical Engineering](#-numerical-methods-in-biomedical-engineering)
+  - 📖 [Probability& Biostatistics](#-probability-biostatistics)
 - ⭐ **Yıldız Sayıları:**
-  - 🎭 Dersi Zevkli Anlatır Mı:	bilinmiyor
-  - 🛣️ Dersi Kolay Geçer Miyim:	bilinmiyor
-  - 🧠 Dersi Öğrenir Miyim:	bilinmiyor
-  - 🎉 Derste Eğlenir Miyim:	bilinmiyor
   - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/GmgA72FXY9oYJ2iS6) anonim şekilde oylamaya katılabilirsiniz.
 
 
 
-### 👩‍🏫 Prof. Dr. Taylan YETKİN 
+#### 👩‍🏫 Prof. Dr. Taylan YETKİN 
 - 🚪 **Ofis:** D-024
 - 🔗 **Araştırma Sayfası:** [https://avesis.yildiz.edu.tr/tyetkin/dokumanlar](https://avesis.yildiz.edu.tr/tyetkin/dokumanlar)
 - 💬 **Öğrenci Görüşleri:**
@@ -555,111 +609,121 @@ Bu repository, Yıldız Teknik Üniversitesi Biyomedikal Mühendisliği bölüm�
 - 📚 **Verdiği Dersler:**
   - 📖 Ders bilgileri bulunamadı.
 - ⭐ **Yıldız Sayıları:**
-  - 🎭 Dersi Zevkli Anlatır Mı:	bilinmiyor
-  - 🛣️ Dersi Kolay Geçer Miyim:	bilinmiyor
-  - 🧠 Dersi Öğrenir Miyim:	bilinmiyor
-  - 🎉 Derste Eğlenir Miyim:	bilinmiyor
   - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/GmgA72FXY9oYJ2iS6) anonim şekilde oylamaya katılabilirsiniz.
 
+### Doçentler
 
 
-### 👨‍🏫 Doç. Dr. Ali AKPEK 
+
+#### 👨‍🏫 Doç. Dr. Ali AKPEK 
 - 🚪 **Ofis:** C-109
 - 🔗 **Araştırma Sayfası:** [https://avesis.yildiz.edu.tr/aliakpek](https://avesis.yildiz.edu.tr/aliakpek)
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Siz de [linkten](https://forms.gle/iJa1Ebn9kCGTDu1Y9) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Fluid Mechanics](#-fluid-mechanics)
+  - 📖 [Biomechanics 1](#-biomechanics-1)
+  - 📖 [Biomechanics 2](#-biomechanics-2)
+  - 📖 [Therapeutic and Prosthetic Devices](#-therapeutic-and-prosthetic-devices)
 - ⭐ **Yıldız Sayıları:**
-  - 🎭 Dersi Zevkli Anlatır Mı:	bilinmiyor
-  - 🛣️ Dersi Kolay Geçer Miyim:	bilinmiyor
-  - 🧠 Dersi Öğrenir Miyim:	bilinmiyor
-  - 🎉 Derste Eğlenir Miyim:	bilinmiyor
   - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/GmgA72FXY9oYJ2iS6) anonim şekilde oylamaya katılabilirsiniz.
 
 
 
-### 👨‍🏫 Doç. Dr. Sakip ÖNDER 
+#### 👨‍🏫 Doç. Dr. Sakip ÖNDER 
 - 🚪 **Ofis:** C-308
 - 🔗 **Araştırma Sayfası:** [https://avesis.yildiz.edu.tr/sonder/dokumanlar](https://avesis.yildiz.edu.tr/sonder/dokumanlar)
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Siz de [linkten](https://forms.gle/iJa1Ebn9kCGTDu1Y9) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
-  - 📖 Ders bilgileri bulunamadı.
+  - 📖 [Biomaterials](#-biomaterials)
+  - 📖 [Introduction to Human Anatomy & Physiology](#-introduction-to-human-anatomy--physiology)
+  - 📖 [Medical Instrumentation](#-medical-instrumentation)
 - ⭐ **Yıldız Sayıları:**
-  - 🎭 Dersi Zevkli Anlatır Mı:	bilinmiyor
-  - 🛣️ Dersi Kolay Geçer Miyim:	bilinmiyor
-  - 🧠 Dersi Öğrenir Miyim:	bilinmiyor
-  - 🎉 Derste Eğlenir Miyim:	bilinmiyor
   - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/GmgA72FXY9oYJ2iS6) anonim şekilde oylamaya katılabilirsiniz.
 
+### Doktor Öğretim Üyeleri
 
 
-### 👩‍🏫 Dr. Görke GÜREL PEKÖZER 
+
+#### 👩‍🏫 Dr. Görke GÜREL PEKÖZER 
 - 🚪 **Ofis:** C-311
 - 🔗 **Araştırma Sayfası:** [https://avesis.yildiz.edu.tr/gpekozer](https://avesis.yildiz.edu.tr/gpekozer)
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Siz de [linkten](https://forms.gle/iJa1Ebn9kCGTDu1Y9) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
-  - 📖 Ders bilgileri bulunamadı.
+  - 📖 [Biothermodynamics](#-biothermodynamics)
+  - 📖 [Biochemistry](#-biochemistry)
+  - 📖 [Cell Biology](#-cell-biology)
 - ⭐ **Yıldız Sayıları:**
-  - 🎭 Dersi Zevkli Anlatır Mı:	bilinmiyor
-  - 🛣️ Dersi Kolay Geçer Miyim:	bilinmiyor
-  - 🧠 Dersi Öğrenir Miyim:	bilinmiyor
-  - 🎉 Derste Eğlenir Miyim:	bilinmiyor
   - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/GmgA72FXY9oYJ2iS6) anonim şekilde oylamaya katılabilirsiniz.
 
 
 
-### 👨‍🏫 Dr. Görkem SERBES 
+#### 👨‍🏫 Dr. Görkem SERBES 
 - 🚪 **Ofis:** C317
 - 🔗 **Araştırma Sayfası:** [https://avesis.yildiz.edu.tr/gserbes](https://avesis.yildiz.edu.tr/gserbes)
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Siz de [linkten](https://forms.gle/iJa1Ebn9kCGTDu1Y9) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
-  - 📖 Ders bilgileri bulunamadı.
+  - 📖 [Circuit Theory](#-circuit-theory)
+  - 📖 [Introductory Computer Sciences](#-introductory-computer-sciences)
+  - 📖 [Logic Design](#-logic-design)
 - ⭐ **Yıldız Sayıları:**
-  - 🎭 Dersi Zevkli Anlatır Mı:	bilinmiyor
-  - 🛣️ Dersi Kolay Geçer Miyim:	bilinmiyor
-  - 🧠 Dersi Öğrenir Miyim:	bilinmiyor
-  - 🎉 Derste Eğlenir Miyim:	bilinmiyor
   - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/GmgA72FXY9oYJ2iS6) anonim şekilde oylamaya katılabilirsiniz.
 
 
 
-### 👨‍🏫 Dr. İsmail CANTÜRK 
+#### 👨‍🏫 Dr. İsmail CANTÜRK 
 - 🚪 **Ofis:** B110
 - 🔗 **Araştırma Sayfası:** [https://avesis.yildiz.edu.tr/icanturk](https://avesis.yildiz.edu.tr/icanturk)
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Siz de [linkten](https://forms.gle/iJa1Ebn9kCGTDu1Y9) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Electronic Analogy](#-electronic-analogy)
+  - 📖 [Analog Electronics](#-analog-electronics)
+  - 📖 [Biosignal Processing](#-biosignal-processing)
+  - 📖 [Introduction to Microcontroller Programming](#-introduction-to-microcontroller-programming)
 - ⭐ **Yıldız Sayıları:**
-  - 🎭 Dersi Zevkli Anlatır Mı:	bilinmiyor
-  - 🛣️ Dersi Kolay Geçer Miyim:	bilinmiyor
-  - 🧠 Dersi Öğrenir Miyim:	bilinmiyor
-  - 🎉 Derste Eğlenir Miyim:	bilinmiyor
   - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/GmgA72FXY9oYJ2iS6) anonim şekilde oylamaya katılabilirsiniz.
+</details>
 
-## ✍️ Yazarın Notları
+<details>
+<summary><b>🖋 Yazarın Notları</b></summary>
+
+
+## 🖋 Yazarın Notları
 
 - 📝 Bu repoda birçok insanın emeği geçmiştir. Lütfen siz de destek olmak için bizimle iletişime geçin.
-## 📚 Hoca Kısaltmaları
+</details>
 
-- AA : Doç. Dr. Ali AKPEK
-- GGP : Dr. Görke GÜREL PEKÖZER
-- GS : Dr. Görkem SERBES
-- KAK : Prof. Dr. Kamuran A. KADIPAŞAOĞLU
-- MA : Prof. Dr. Mihrigül ALTAN
-- OG : Prof. Dr. Osman GÜNAY
-- SÖ : Doç. Dr. Sakip ÖNDER
-- TY : Prof. Dr. Taylan YETKİN
-- İC : Dr. İsmail CANTÜRK
+<details>
+<summary><b>🆎 Hoca Kısaltmaları</b></summary>
 
+<h2 align='center'>🆎 Hoca Kısaltmaları</h2>
 
-## 🤝 Katkıda Bulunanlar
+<p align='center'>🔹 <b>AA</b> &emsp; Doç. Dr. Ali AKPEK 🔹</p>
+<p align='center'>🔹 <b>GGP</b> &emsp; Dr. Görke GÜREL PEKÖZER 🔹</p>
+<p align='center'>🔹 <b>GS</b> &emsp; Dr. Görkem SERBES 🔹</p>
+<p align='center'>🔹 <b>KAK</b> &emsp; Prof. Dr. Kamuran A. KADIPAŞAOĞLU 🔹</p>
+<p align='center'>🔹 <b>MA</b> &emsp; Prof. Dr. Mihrigül ALTAN 🔹</p>
+<p align='center'>🔹 <b>OG</b> &emsp; Prof. Dr. Osman GÜNAY 🔹</p>
+<p align='center'>🔹 <b>SÖ</b> &emsp; Doç. Dr. Sakip ÖNDER 🔹</p>
+<p align='center'>🔹 <b>TY</b> &emsp; Prof. Dr. Taylan YETKİN 🔹</p>
+<p align='center'>🔹 <b>İC</b> &emsp; Dr. İsmail CANTÜRK 🔹</p>
+</details>
+
+<details>
+<summary><b>🤝 Katkıda Bulunanlar</b></summary>
+
+<h2 align='center'>🤝 Katkıda Bulunanlar</h2>
 
 Bu bölümde reponun hazırlanmasında katkıda bulunan insanlar listelenmiştir. Siz de katkıda bulunmak isterseniz bizimle iletişime geçin. Ya da merge request gönderin.
 
-- 👤 Souhaib Khalbuss
-  - 🔗 Github Adresi: https://github.com/Souhib-khalbous
+<h6 align='center'> <b><i>Souhaib Khalbuss</i></b> </h6>
+
+</details>
+
+
+## Yıldız Geçmişi
+[![Star History Chart](https://api.star-history.com/svg?repos=Souhib-khalbous/YTU_BME_Arch&type=Date)](https://star-history.com/#Souhib-khalbous/YTU_BME_Arch&Date)

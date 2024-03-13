@@ -8,7 +8,10 @@
             "link": "https://avesis.yildiz.edu.tr/icanturk",
             "erkek_mi": true,
             "dersler": [
-                "Electronic Analogy"
+                "Electronic Analogy",
+                "Analog Electronics",
+                "Biosignal Processing",
+                "Introduction to Microcontroller Programming"
             ],
             "hoca_aktif_gorevde_mi": true
         },
@@ -34,7 +37,10 @@
             "link": "https://avesis.yildiz.edu.tr/kamuran",
             "erkek_mi": false,
             "dersler": [
-                "Biomedical Modeling & Simulation"
+                "Biomedical Modeling & Simulation",
+                "Cell Biology",
+                "Introduction to Biomedical Engineering",
+                "Signals & Systems"
             ],
             "hoca_aktif_gorevde_mi": true
         },
@@ -44,7 +50,10 @@
             "link": "https://avesis.yildiz.edu.tr/aliakpek",
             "erkek_mi": true,
             "dersler": [
-                "Fluid Mechanics"
+                "Fluid Mechanics",
+                "Biomechanics 1",
+                "Biomechanics 2",
+                "Therapeutic and Prosthetic Devices"
             ],
             "hoca_aktif_gorevde_mi": true
         },
@@ -53,7 +62,11 @@
             "ofis": "C-308",
             "link": "https://avesis.yildiz.edu.tr/sonder/dokumanlar",
             "erkek_mi": true,
-            "dersler": [],
+            "dersler": [
+                "Biomaterials",
+                "Introduction to Human Anatomy & Physiology",
+                "Medical Instrumentation"
+            ],
             "hoca_aktif_gorevde_mi": true
         },
         {
@@ -61,7 +74,11 @@
             "ofis": "B-B001",
             "link": "https://avesis.yildiz.edu.tr/ogunay",
             "erkek_mi": true,
-            "dersler": [],
+            "dersler": [
+                "Medical Imaging",
+                "Numerical Methods in Biomedical Engineering",
+                "Probability& Biostatistics"
+            ],
             "hoca_aktif_gorevde_mi": true
         },
         {
@@ -69,7 +86,11 @@
             "ofis": "C317",
             "link": "https://avesis.yildiz.edu.tr/gserbes",
             "erkek_mi": true,
-            "dersler": [],
+            "dersler": [
+                "Circuit Theory",
+                "Introductory Computer Sciences",
+                "Logic Design"
+            ],
             "hoca_aktif_gorevde_mi": true
         },
         {
@@ -77,7 +98,11 @@
             "ofis": "C-311",
             "link": "https://avesis.yildiz.edu.tr/gpekozer",
             "erkek_mi": false,
-            "dersler": [],
+            "dersler": [
+                "Biothermodynamics",
+                "Biochemistry",
+                "Cell Biology"
+            ],
             "hoca_aktif_gorevde_mi": true
         }
     ],

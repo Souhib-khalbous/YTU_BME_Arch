@@ -38,7 +38,10 @@
             "donem": "Güz",
             "tip": "Zorunlu",
             "dersi_veren_hocalar": [],
-            "guncel_mi": true
+            "guncel_mi": true,
+            "kolaylik_puani": 40,
+            "gereklilik_puani": 10,
+            "oy_sayisi": 1
         },
         {
             "ad": "Fluid Mechanics",
@@ -74,7 +77,12 @@
             "yil": 1,
             "donem": "Güz",
             "tip": "Zorunlu",
-            "dersi_veren_hocalar": [],
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "KAK",
+                    "ad": "Prof. Dr. Kamuran A. KADIPAŞAOĞLU"
+                }
+            ],
             "guncel_mi": true
         },
         {
@@ -82,7 +90,12 @@
             "yil": 1,
             "donem": "Güz",
             "tip": "Zorunlu",
-            "dersi_veren_hocalar": [],
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "GS",
+                    "ad": "Dr. Görkem SERBES"
+                }
+            ],
             "guncel_mi": true
         },
         {
@@ -125,7 +138,12 @@
             "yil": 1,
             "donem": "Bahar",
             "tip": "Zorunlu",
-            "dersi_veren_hocalar": [],
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "OG",
+                    "ad": "Prof. Dr. Osman GÜNAY"
+                }
+            ],
             "guncel_mi": true
         },
         {
@@ -133,7 +151,16 @@
             "yil": 1,
             "donem": "Bahar",
             "tip": "Zorunlu",
-            "dersi_veren_hocalar": [],
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "GGP",
+                    "ad": "Dr. Görke GÜREL PEKÖZER"
+                },
+                {
+                    "kisaltma": "KAK",
+                    "ad": "Prof. Dr. Kamuran A. KADIPAŞAOĞLU"
+                }
+            ],
             "guncel_mi": true
         },
         {
@@ -181,7 +208,12 @@
             "yil": 2,
             "donem": "Güz",
             "tip": "Zorunlu",
-            "dersi_veren_hocalar": [],
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "SÖ",
+                    "ad": "Doç. Dr. Sakip ÖNDER"
+                }
+            ],
             "guncel_mi": true
         },
         {
@@ -189,7 +221,12 @@
             "yil": 2,
             "donem": "Güz",
             "tip": "Zorunlu",
-            "dersi_veren_hocalar": [],
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "GGP",
+                    "ad": "Dr. Görke GÜREL PEKÖZER"
+                }
+            ],
             "guncel_mi": true,
             "kolaylik_puani": 50,
             "gereklilik_puani": 100,
@@ -200,7 +237,12 @@
             "yil": 2,
             "donem": "Güz",
             "tip": "Zorunlu",
-            "dersi_veren_hocalar": [],
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "GS",
+                    "ad": "Dr. Görkem SERBES"
+                }
+            ],
             "guncel_mi": true
         },
         {
@@ -224,7 +266,12 @@
             "yil": 2,
             "donem": "Bahar",
             "tip": "Zorunlu",
-            "dersi_veren_hocalar": [],
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "KAK",
+                    "ad": "Prof. Dr. Kamuran A. KADIPAŞAOĞLU"
+                }
+            ],
             "guncel_mi": true
         },
         {
@@ -232,7 +279,12 @@
             "yil": 2,
             "donem": "Bahar",
             "tip": "Zorunlu",
-            "dersi_veren_hocalar": [],
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "OG",
+                    "ad": "Prof. Dr. Osman GÜNAY"
+                }
+            ],
             "guncel_mi": true
         },
         {
@@ -240,7 +292,12 @@
             "yil": 2,
             "donem": "Bahar",
             "tip": "Zorunlu",
-            "dersi_veren_hocalar": [],
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "İC",
+                    "ad": "Dr. İsmail CANTÜRK"
+                }
+            ],
             "guncel_mi": true
         },
         {
@@ -248,7 +305,12 @@
             "yil": 2,
             "donem": "Bahar",
             "tip": "Zorunlu",
-            "dersi_veren_hocalar": [],
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "GS",
+                    "ad": "Dr. Görkem SERBES"
+                }
+            ],
             "guncel_mi": true
         },
         {
@@ -280,7 +342,12 @@
             "yil": 3,
             "donem": "Güz",
             "tip": "Zorunlu",
-            "dersi_veren_hocalar": [],
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "İC",
+                    "ad": "Dr. İsmail CANTÜRK"
+                }
+            ],
             "guncel_mi": true
         },
         {
@@ -288,7 +355,12 @@
             "yil": 3,
             "donem": "Güz",
             "tip": "Zorunlu",
-            "dersi_veren_hocalar": [],
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "AA",
+                    "ad": "Doç. Dr. Ali AKPEK"
+                }
+            ],
             "guncel_mi": true
         },
         {
@@ -296,7 +368,12 @@
             "yil": 3,
             "donem": "Güz",
             "tip": "Zorunlu",
-            "dersi_veren_hocalar": [],
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "İC",
+                    "ad": "Dr. İsmail CANTÜRK"
+                }
+            ],
             "guncel_mi": true
         },
         {
@@ -304,7 +381,12 @@
             "yil": 3,
             "donem": "Güz",
             "tip": "Zorunlu",
-            "dersi_veren_hocalar": [],
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "GGP",
+                    "ad": "Dr. Görke GÜREL PEKÖZER"
+                }
+            ],
             "guncel_mi": true
         },
         {
@@ -338,8 +420,8 @@
             "tip": "Zorunlu",
             "dersi_veren_hocalar": [
                 {
-                    "ad": "Prof. Dr. Kamuran A. KADIPAŞAOĞLU",
-                    "kisaltma": "KAK"
+                    "kisaltma": "KAK",
+                    "ad": "Prof. Dr. Kamuran A. KADIPAŞAOĞLU"
                 }
             ],
             "guncel_mi": true
@@ -349,7 +431,12 @@
             "yil": 3,
             "donem": "Bahar",
             "tip": "Zorunlu",
-            "dersi_veren_hocalar": [],
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "SÖ",
+                    "ad": "Doç. Dr. Sakip ÖNDER"
+                }
+            ],
             "guncel_mi": true
         },
         {
@@ -357,7 +444,12 @@
             "yil": 3,
             "donem": "Bahar",
             "tip": "Zorunlu",
-            "dersi_veren_hocalar": [],
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "SÖ",
+                    "ad": "Doç. Dr. Sakip ÖNDER"
+                }
+            ],
             "guncel_mi": true
         },
         {
@@ -365,7 +457,12 @@
             "yil": 3,
             "donem": "Bahar",
             "tip": "Zorunlu",
-            "dersi_veren_hocalar": [],
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "AA",
+                    "ad": "Doç. Dr. Ali AKPEK"
+                }
+            ],
             "guncel_mi": true
         },
         {
@@ -405,7 +502,12 @@
             "yil": 4,
             "donem": "Güz",
             "tip": "Zorunlu",
-            "dersi_veren_hocalar": [],
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "OG",
+                    "ad": "Prof. Dr. Osman GÜNAY"
+                }
+            ],
             "guncel_mi": true
         },
         {
@@ -461,7 +563,12 @@
             "yil": 4,
             "donem": "Bahar",
             "tip": "Zorunlu",
-            "dersi_veren_hocalar": [],
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "AA",
+                    "ad": "Doç. Dr. Ali AKPEK"
+                }
+            ],
             "guncel_mi": true
         },
         {
