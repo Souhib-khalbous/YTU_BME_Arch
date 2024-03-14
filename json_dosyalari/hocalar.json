@@ -108,7 +108,12 @@
                 "Biochemistry",
                 "Cell Biology"
             ],
-            "hoca_aktif_gorevde_mi": true
+            "hoca_aktif_gorevde_mi": true,
+            "anlatim_puani": 100,
+            "kolaylik_puani": 100,
+            "ogretme_puani": 90,
+            "eglence_puani": 90,
+            "oy_sayisi": 1
         }
     ],
     "en_populer_hoca": {

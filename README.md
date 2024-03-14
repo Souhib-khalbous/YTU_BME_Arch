@@ -660,7 +660,11 @@ Bu repository, Yıldız Teknik Üniversitesi Biyomedikal Mühendisliği bölüm�
   - 📖 [Biochemistry](#-biochemistry)
   - 📖 [Cell Biology](#-cell-biology)
 - ⭐ **Yıldız Sayıları:**
-  - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/GmgA72FXY9oYJ2iS6) anonim şekilde oylamaya katılabilirsiniz.
+  - 🎭 Dersi Zevkli Anlatır Mı:	★★★★★★★★★★
+  - 🛣️ Dersi Kolay Geçer Miyim:	★★★★★★★★★★
+  - 🧠 Dersi Öğrenir Miyim:	★★★★★★★★★☆
+  - 🎉 Derste Eğlenir Miyim:	★★★★★★★★★☆
+  - ℹ️ Yıldızlar 1 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/GmgA72FXY9oYJ2iS6) anonim şekilde oylamaya katılabilirsiniz.
 
 
 
