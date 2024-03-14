@@ -42,7 +42,12 @@
                 "Introduction to Biomedical Engineering",
                 "Signals & Systems"
             ],
-            "hoca_aktif_gorevde_mi": true
+            "hoca_aktif_gorevde_mi": true,
+            "anlatim_puani": 70,
+            "kolaylik_puani": 40,
+            "ogretme_puani": 90,
+            "eglence_puani": 70,
+            "oy_sayisi": 1
         },
         {
             "ad": "Doç. Dr. Ali AKPEK",
@@ -67,7 +72,12 @@
                 "Introduction to Human Anatomy & Physiology",
                 "Medical Instrumentation"
             ],
-            "hoca_aktif_gorevde_mi": true
+            "hoca_aktif_gorevde_mi": true,
+            "anlatim_puani": 90,
+            "kolaylik_puani": 40,
+            "ogretme_puani": 70,
+            "eglence_puani": 80,
+            "oy_sayisi": 1
         },
         {
             "ad": "Prof. Dr. Osman GÜNAY",
