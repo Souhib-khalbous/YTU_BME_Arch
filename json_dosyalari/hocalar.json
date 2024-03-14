@@ -79,7 +79,12 @@
                 "Numerical Methods in Biomedical Engineering",
                 "Probability& Biostatistics"
             ],
-            "hoca_aktif_gorevde_mi": true
+            "hoca_aktif_gorevde_mi": true,
+            "anlatim_puani": 90,
+            "kolaylik_puani": 80,
+            "ogretme_puani": 50,
+            "eglence_puani": 100,
+            "oy_sayisi": 1
         },
         {
             "ad": "Dr. Görkem SERBES",
@@ -107,7 +112,7 @@
         }
     ],
     "en_populer_hoca": {
-        "hoca_adi": "MEVCUT DEĞİL",
-        "oy_sayisi": 0
+        "hoca_adi": "Prof. Dr. Osman GÜNAY",
+        "oy_sayisi": 1
     }
 }

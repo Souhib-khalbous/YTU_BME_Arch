@@ -161,7 +161,7 @@ Bu repository, Yıldız Teknik Üniversitesi Biyomedikal Mühendisliği bölüm�
   - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - [OG](#-prof-dr-osman-günay)
+    - [OG](#-prof-dr-osman-günay--en-popüler-hoca-1-oy)
   - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//1-2/Probability&%20Biostatistics)
 
 
@@ -265,7 +265,7 @@ Bu repository, Yıldız Teknik Üniversitesi Biyomedikal Mühendisliği bölüm�
   - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - [OG](#-prof-dr-osman-günay)
+    - [OG](#-prof-dr-osman-günay--en-popüler-hoca-1-oy)
   - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//2-2/Numerical%20Methods%20in%20Biomedical%20Engineering)
 
 
@@ -408,7 +408,7 @@ Bu repository, Yıldız Teknik Üniversitesi Biyomedikal Mühendisliği bölüm�
   - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - [OG](#-prof-dr-osman-günay)
+    - [OG](#-prof-dr-osman-günay--en-popüler-hoca-1-oy)
   - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//4-1/Medical%20Imaging)
 
 
@@ -587,7 +587,7 @@ Bu repository, Yıldız Teknik Üniversitesi Biyomedikal Mühendisliği bölüm�
 
 
 
-#### 👨‍🏫 Prof. Dr. Osman GÜNAY 
+#### 👨‍🏫 Prof. Dr. Osman GÜNAY 👑 En popüler hoca (1 oy)
 - 🚪 **Ofis:** B-B001
 - 🔗 **Araştırma Sayfası:** [https://avesis.yildiz.edu.tr/ogunay](https://avesis.yildiz.edu.tr/ogunay)
 - 💬 **Öğrenci Görüşleri:**
@@ -597,7 +597,11 @@ Bu repository, Yıldız Teknik Üniversitesi Biyomedikal Mühendisliği bölüm�
   - 📖 [Numerical Methods in Biomedical Engineering](#-numerical-methods-in-biomedical-engineering)
   - 📖 [Probability& Biostatistics](#-probability-biostatistics)
 - ⭐ **Yıldız Sayıları:**
-  - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/GmgA72FXY9oYJ2iS6) anonim şekilde oylamaya katılabilirsiniz.
+  - 🎭 Dersi Zevkli Anlatır Mı:	★★★★★★★★★☆
+  - 🛣️ Dersi Kolay Geçer Miyim:	★★★★★★★★☆☆
+  - 🧠 Dersi Öğrenir Miyim:	★★★★★☆☆☆☆☆
+  - 🎉 Derste Eğlenir Miyim:	★★★★★★★★★★
+  - ℹ️ Yıldızlar 1 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/GmgA72FXY9oYJ2iS6) anonim şekilde oylamaya katılabilirsiniz.
 
 
 
