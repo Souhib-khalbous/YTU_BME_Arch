@@ -17,4 +17,3 @@
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - GGP
-- KAK

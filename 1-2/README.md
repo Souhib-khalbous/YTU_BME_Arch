@@ -39,7 +39,6 @@
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - GGP
-- KAK
 
 ### 📘 Computer Aided Design
 

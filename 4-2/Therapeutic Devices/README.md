@@ -1,9 +1,9 @@
-# 📚 Medical Imaging
+# 📚 Therapeutic Devices
 
 ## ℹ️ Ders Bilgileri
 
 - 📅 **Yıl:** 4
-- 📆 **Dönem:** Güz
+- 📆 **Dönem:** Bahar
 - 🏫 **Ders Tipi:** Zorunlu
 - ⭐ **Yıldız Sayıları:**
   - 🛤️ **Kolaylık Puanı:** ☆☆☆☆☆☆☆☆☆☆
@@ -16,4 +16,7 @@
 - 📄 [Genel Çıkmış Sorular](https://drive.google.com/drive/folders/1LI_Bo7kWqI2krHTw0noUFl9crfZSlrZh)
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- TY
+- AA
+
+## 😔 İçerik yok
+- Henüz dersle alakalı bir döküman ne yazık ki yok. Katkıda bulunmak istersen lütfen bizimle iletişime geç...

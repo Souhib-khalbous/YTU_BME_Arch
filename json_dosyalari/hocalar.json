@@ -11,14 +11,17 @@
                 "Electronic Analogy",
                 "Analog Electronics",
                 "Biosignal Processing",
-                "Introduction to Microcontroller Programming"
+                "Introduction to Microcontroller Programming",
+                "Bioinformatics",
+                "Analog Electronic Applications",
+                "Digital Signal Processing"
             ],
             "hoca_aktif_gorevde_mi": true
         },
         {
             "ad": "Prof. Dr. Mihrigül ALTAN",
-            "ofis": "",
-            "link": "",
+            "ofis": "Biyomedikal Mühendisliği Bölüm Başkanlığı (Davutpaşa)",
+            "link": "https://avesis.yildiz.edu.tr/meksi",
             "erkek_mi": false,
             "dersler": [],
             "hoca_aktif_gorevde_mi": true
@@ -26,9 +29,16 @@
         {
             "ad": "Prof. Dr. Taylan YETKİN",
             "ofis": "D-024",
-            "link": "https://avesis.yildiz.edu.tr/tyetkin/dokumanlar",
+            "link": "https://avesis.yildiz.edu.tr/tyetkin",
             "erkek_mi": false,
-            "dersler": [],
+            "dersler": [
+                "Medical Imaging",
+                "Bioelectromagnetism",
+                "Biomedical Image Processing",
+                "Biomedical Optics & Lasers",
+                "Nanotechnology & Nanomaterials",
+                "Quantum Physics for Engineers"
+            ],
             "hoca_aktif_gorevde_mi": true
         },
         {
@@ -38,9 +48,12 @@
             "erkek_mi": false,
             "dersler": [
                 "Biomedical Modeling & Simulation",
-                "Cell Biology",
                 "Introduction to Biomedical Engineering",
-                "Signals & Systems"
+                "Signals & Systems",
+                "Physiological Control Systems",
+                "System Identification",
+                "Biomedical System Estimation",
+                "Genetic Engineering"
             ],
             "hoca_aktif_gorevde_mi": true,
             "anlatim_puani": 70,
@@ -58,19 +71,27 @@
                 "Fluid Mechanics",
                 "Biomechanics 1",
                 "Biomechanics 2",
-                "Therapeutic and Prosthetic Devices"
+                "Therapeutic and Prosthetic Devices",
+                "Biomems",
+                "Robotics for Healthcare",
+                "Artificial Organs & Life Support Systems",
+                "Biofluid Mechanics and Mass Transport",
+                "Therapeutic Devices"
             ],
             "hoca_aktif_gorevde_mi": true
         },
         {
             "ad": "Doç. Dr. Sakip ÖNDER",
-            "ofis": "C-308",
-            "link": "https://avesis.yildiz.edu.tr/sonder/dokumanlar",
+            "ofis": "E-015",
+            "link": "https://avesis.yildiz.edu.tr/sonder",
             "erkek_mi": true,
             "dersler": [
                 "Biomaterials",
                 "Introduction to Human Anatomy & Physiology",
-                "Medical Instrumentation"
+                "Medical Instrumentation",
+                "Instrumental Analysis",
+                "Biosensors",
+                "Medical Instrumentation Safety"
             ],
             "hoca_aktif_gorevde_mi": true,
             "anlatim_puani": 90,
@@ -85,9 +106,13 @@
             "link": "https://avesis.yildiz.edu.tr/ogunay",
             "erkek_mi": true,
             "dersler": [
-                "Medical Imaging",
                 "Numerical Methods in Biomedical Engineering",
-                "Probability& Biostatistics"
+                "Probability& Biostatistics",
+                "Probability & Biostatistics",
+                "Discrete Mathematics",
+                "Clinical Engineering",
+                "Special Topics in Biomedical Engineering",
+                "Introduction to Nuclear Medicine"
             ],
             "hoca_aktif_gorevde_mi": true,
             "anlatim_puani": 90,
@@ -104,7 +129,11 @@
             "dersler": [
                 "Circuit Theory",
                 "Introductory Computer Sciences",
-                "Logic Design"
+                "Logic Design",
+                "Machine Learning in Biomedical Engineering",
+                "Medical Informatics",
+                "Neurophysiology & Applications",
+                "Introduction to Neural Engineering"
             ],
             "hoca_aktif_gorevde_mi": true
         },
@@ -116,7 +145,8 @@
             "dersler": [
                 "Biothermodynamics",
                 "Biochemistry",
-                "Cell Biology"
+                "Cell Biology",
+                "Genetic Engineering"
             ],
             "hoca_aktif_gorevde_mi": true,
             "anlatim_puani": 100,

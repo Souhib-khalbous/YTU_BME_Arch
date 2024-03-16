@@ -155,10 +155,6 @@
                 {
                     "kisaltma": "GGP",
                     "ad": "Dr. Görke GÜREL PEKÖZER"
-                },
-                {
-                    "kisaltma": "KAK",
-                    "ad": "Prof. Dr. Kamuran A. KADIPAŞAOĞLU"
                 }
             ],
             "guncel_mi": true
@@ -285,7 +281,10 @@
                     "ad": "Prof. Dr. Osman GÜNAY"
                 }
             ],
-            "guncel_mi": true
+            "guncel_mi": true,
+            "kolaylik_puani": 100,
+            "gereklilik_puani": 100,
+            "oy_sayisi": 1
         },
         {
             "ad": "Analog Electronics",
@@ -504,8 +503,8 @@
             "tip": "Zorunlu",
             "dersi_veren_hocalar": [
                 {
-                    "kisaltma": "OG",
-                    "ad": "Prof. Dr. Osman GÜNAY"
+                    "ad": "Prof. Dr. Taylan YETKİN",
+                    "kisaltma": "TY"
                 }
             ],
             "guncel_mi": true
@@ -601,6 +600,395 @@
             "donem": "Bahar",
             "tip": "Seçmeli",
             "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Physiological Control Systems",
+            "yil": 0,
+            "donem": "yok",
+            "tip": "Mesleki Seçmeli",
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "KAK",
+                    "ad": "Prof. Dr. Kamuran A. KADIPAŞAOĞLU"
+                }
+            ],
+            "guncel_mi": true
+        },
+        {
+            "ad": "System Identification",
+            "yil": 0,
+            "donem": "yok",
+            "tip": "Mesleki Seçmeli",
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "KAK",
+                    "ad": "Prof. Dr. Kamuran A. KADIPAŞAOĞLU"
+                }
+            ],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Biomedical System Estimation",
+            "yil": 0,
+            "donem": "yok",
+            "tip": "Mesleki Seçmeli",
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "KAK",
+                    "ad": "Prof. Dr. Kamuran A. KADIPAŞAOĞLU"
+                }
+            ],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Machine Learning in Biomedical Engineering",
+            "yil": 0,
+            "donem": "yok",
+            "tip": "Mesleki Seçmeli",
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "GS",
+                    "ad": "Dr. Görkem SERBES"
+                }
+            ],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Medical Informatics",
+            "yil": 0,
+            "donem": "yok",
+            "tip": "Mesleki Seçmeli",
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "GS",
+                    "ad": "Dr. Görkem SERBES"
+                }
+            ],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Neurophysiology & Applications",
+            "yil": 0,
+            "donem": "yok",
+            "tip": "Mesleki Seçmeli",
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "GS",
+                    "ad": "Dr. Görkem SERBES"
+                }
+            ],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Introduction to Neural Engineering",
+            "yil": 0,
+            "donem": "yok",
+            "tip": "Mesleki Seçmeli",
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "GS",
+                    "ad": "Dr. Görkem SERBES"
+                }
+            ],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Genetic Engineering",
+            "yil": 0,
+            "donem": "yok",
+            "tip": "Mesleki Seçmeli",
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "GGP",
+                    "ad": "Dr. Görke GÜREL PEKÖZER"
+                },
+                {
+                    "kisaltma": "KAK",
+                    "ad": "Prof. Dr. Kamuran A. KADIPAŞAOĞLU"
+                }
+            ],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Probability & Biostatistics",
+            "yil": 1,
+            "donem": "Güz",
+            "tip": "Zorunlu",
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "OG",
+                    "ad": "Prof. Dr. Osman GÜNAY"
+                }
+            ],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Discrete Mathematics",
+            "yil": 0,
+            "donem": "yok",
+            "tip": "Mesleki Seçmeli",
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "OG",
+                    "ad": "Prof. Dr. Osman GÜNAY"
+                }
+            ],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Clinical Engineering",
+            "yil": 0,
+            "donem": "yok",
+            "tip": "Mesleki Seçmeli",
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "OG",
+                    "ad": "Prof. Dr. Osman GÜNAY"
+                }
+            ],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Special Topics in Biomedical Engineering",
+            "yil": 0,
+            "donem": "yok",
+            "tip": "Mesleki Seçmeli",
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "OG",
+                    "ad": "Prof. Dr. Osman GÜNAY"
+                }
+            ],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Introduction to Nuclear Medicine",
+            "yil": 0,
+            "donem": "yok",
+            "tip": "Mesleki Seçmeli",
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "OG",
+                    "ad": "Prof. Dr. Osman GÜNAY"
+                }
+            ],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Biomems",
+            "yil": 0,
+            "donem": "yok",
+            "tip": "Mesleki Seçmeli",
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "AA",
+                    "ad": "Doç. Dr. Ali AKPEK"
+                }
+            ],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Robotics for Healthcare",
+            "yil": 0,
+            "donem": "yok",
+            "tip": "Mesleki Seçmeli",
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "AA",
+                    "ad": "Doç. Dr. Ali AKPEK"
+                }
+            ],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Artificial Organs & Life Support Systems",
+            "yil": 0,
+            "donem": "yok",
+            "tip": "Mesleki Seçmeli",
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "AA",
+                    "ad": "Doç. Dr. Ali AKPEK"
+                }
+            ],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Biofluid Mechanics and Mass Transport",
+            "yil": 0,
+            "donem": "yok",
+            "tip": "Mesleki Seçmeli",
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "AA",
+                    "ad": "Doç. Dr. Ali AKPEK"
+                }
+            ],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Medical Device Development Guidelines & Regulation",
+            "yil": 0,
+            "donem": "yok",
+            "tip": "Mesleki Seçmeli",
+            "dersi_veren_hocalar": [],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Therapeutic Devices",
+            "yil": 4,
+            "donem": "Bahar",
+            "tip": "Zorunlu",
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "AA",
+                    "ad": "Doç. Dr. Ali AKPEK"
+                }
+            ],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Instrumental Analysis",
+            "yil": 0,
+            "donem": "yok",
+            "tip": "Mesleki Seçmeli",
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "SÖ",
+                    "ad": "Doç. Dr. Sakip ÖNDER"
+                }
+            ],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Biosensors",
+            "yil": 0,
+            "donem": "",
+            "tip": "Mesleki Seçmeli",
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "SÖ",
+                    "ad": "Doç. Dr. Sakip ÖNDER"
+                }
+            ],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Medical Instrumentation Safety",
+            "yil": 0,
+            "donem": "yok",
+            "tip": "Mesleki Seçmeli",
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "SÖ",
+                    "ad": "Doç. Dr. Sakip ÖNDER"
+                }
+            ],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Bioelectromagnetism",
+            "yil": 0,
+            "donem": "yok",
+            "tip": "Mesleki Seçmeli",
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "TY",
+                    "ad": "Prof. Dr. Taylan YETKİN"
+                }
+            ],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Biomedical Image Processing",
+            "yil": 0,
+            "donem": "yok",
+            "tip": "Mesleki Seçmeli",
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "TY",
+                    "ad": "Prof. Dr. Taylan YETKİN"
+                }
+            ],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Biomedical Optics & Lasers",
+            "yil": 0,
+            "donem": "",
+            "tip": "Mesleki Seçmeli",
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "TY",
+                    "ad": "Prof. Dr. Taylan YETKİN"
+                }
+            ],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Nanotechnology & Nanomaterials",
+            "yil": 0,
+            "donem": "yok",
+            "tip": "Mesleki Seçmeli",
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "TY",
+                    "ad": "Prof. Dr. Taylan YETKİN"
+                }
+            ],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Quantum Physics for Engineers",
+            "yil": 0,
+            "donem": "yok",
+            "tip": "Mesleki Seçmeli",
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "TY",
+                    "ad": "Prof. Dr. Taylan YETKİN"
+                }
+            ],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Bioinformatics",
+            "yil": 0,
+            "donem": "yok",
+            "tip": "Mesleki Seçmeli",
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "İC",
+                    "ad": "Dr. İsmail CANTÜRK"
+                }
+            ],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Analog Electronic Applications",
+            "yil": 0,
+            "donem": "yok",
+            "tip": "Mesleki Seçmeli",
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "İC",
+                    "ad": "Dr. İsmail CANTÜRK"
+                }
+            ],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Digital Signal Processing",
+            "yil": 0,
+            "donem": "yok",
+            "tip": "Mesleki Seçmeli",
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "İC",
+                    "ad": "Dr. İsmail CANTÜRK"
+                }
+            ],
             "guncel_mi": true
         }
     ],

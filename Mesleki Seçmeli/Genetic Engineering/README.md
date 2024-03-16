@@ -1,10 +1,8 @@
-# 📚 Medical Imaging
+# 📚 Genetic Engineering
 
 ## ℹ️ Ders Bilgileri
 
-- 📅 **Yıl:** 4
-- 📆 **Dönem:** Güz
-- 🏫 **Ders Tipi:** Zorunlu
+- 🏫 **Ders Tipi:** Mesleki Seçmeli
 - ⭐ **Yıldız Sayıları:**
   - 🛤️ **Kolaylık Puanı:** ☆☆☆☆☆☆☆☆☆☆
   - 🔑 **Gereklilik Puanı:** ☆☆☆☆☆☆☆☆☆☆
@@ -16,4 +14,5 @@
 - 📄 [Genel Çıkmış Sorular](https://drive.google.com/drive/folders/1LI_Bo7kWqI2krHTw0noUFl9crfZSlrZh)
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- TY
+- GGP
+- KAK
