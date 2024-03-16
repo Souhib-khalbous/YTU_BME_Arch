@@ -696,29 +696,12 @@
         {
             "ad": "Genetic Engineering",
             "yil": 0,
-            "donem": "yok",
+            "donem": "",
             "tip": "Mesleki Seçmeli",
             "dersi_veren_hocalar": [
                 {
                     "kisaltma": "GGP",
                     "ad": "Dr. Görke GÜREL PEKÖZER"
-                },
-                {
-                    "kisaltma": "KAK",
-                    "ad": "Prof. Dr. Kamuran A. KADIPAŞAOĞLU"
-                }
-            ],
-            "guncel_mi": true
-        },
-        {
-            "ad": "Probability & Biostatistics",
-            "yil": 1,
-            "donem": "Güz",
-            "tip": "Zorunlu",
-            "dersi_veren_hocalar": [
-                {
-                    "kisaltma": "OG",
-                    "ad": "Prof. Dr. Osman GÜNAY"
                 }
             ],
             "guncel_mi": true

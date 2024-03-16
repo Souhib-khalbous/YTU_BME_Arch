@@ -221,15 +221,6 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
   - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//1-1/Physics%201)
 
 
-#### 📘 Probability & Biostatistics 
-  - 🏷️ **Ders Tipi:** Zorunlu
-  - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
-  - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - [OG](#-prof-dr-osman-günay--en-popüler-hoca-1-oy)
-  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//1-2/Probability&%20Biostatistics)
-
-
 #### 📘 Turkish language 1 
   - 🏷️ **Ders Tipi:** Zorunlu
   - ⭐ **Yıldız Sayıları:**
@@ -564,6 +555,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - [AA](#-doç-dr-ali-akpek)
+  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//4-2/Therapeutic%20Devices)
 
 ### 🗓 Mesleki Seçmeli
 
@@ -574,6 +566,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - [İC](#-dr-i̇smail-cantürk)
+  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//Mesleki%20Seçmeli/Analog%20Electronic%20Applications)
 
 
 #### 📘 Artificial Organs & Life Support Systems 
@@ -582,6 +575,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - [AA](#-doç-dr-ali-akpek)
+  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//Mesleki%20Seçmeli/Artificial%20Organs%20&%20Life%20Support%20Systems)
 
 
 #### 📘 Bioelectromagnetism 
@@ -590,6 +584,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - [TY](#-prof-dr-taylan-yetki̇n)
+  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//Mesleki%20Seçmeli/Bioelectromagnetism)
 
 
 #### 📘 Biofluid Mechanics and Mass Transport 
@@ -598,6 +593,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - [AA](#-doç-dr-ali-akpek)
+  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//Mesleki%20Seçmeli/Biofluid%20Mechanics%20and%20Mass%20Transport)
 
 
 #### 📘 Bioinformatics 
@@ -606,6 +602,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - [İC](#-dr-i̇smail-cantürk)
+  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//Mesleki%20Seçmeli/Bioinformatics)
 
 
 #### 📘 Biomedical Image Processing 
@@ -614,6 +611,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - [TY](#-prof-dr-taylan-yetki̇n)
+  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//Mesleki%20Seçmeli/Biomedical%20Image%20Processing)
 
 
 #### 📘 Biomedical Optics & Lasers 
@@ -622,6 +620,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - [TY](#-prof-dr-taylan-yetki̇n)
+  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//Mesleki%20Seçmeli/Biomedical%20Optics%20&%20Lasers)
 
 
 #### 📘 Biomedical System Estimation 
@@ -630,6 +629,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - [KAK](#-prof-dr-kamuran-a-kadipaşaoğlu)
+  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//Mesleki%20Seçmeli/Biomedical%20System%20Estimation)
 
 
 #### 📘 Biomems 
@@ -638,6 +638,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - [AA](#-doç-dr-ali-akpek)
+  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//Mesleki%20Seçmeli/Biomems)
 
 
 #### 📘 Biosensors 
@@ -655,6 +656,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - [OG](#-prof-dr-osman-günay--en-popüler-hoca-1-oy)
+  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//Mesleki%20Seçmeli/Clinical%20Engineering)
 
 
 #### 📘 Digital Signal Processing 
@@ -663,6 +665,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - [İC](#-dr-i̇smail-cantürk)
+  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//Mesleki%20Seçmeli/Digital%20Signal%20Processing)
 
 
 #### 📘 Discrete Mathematics 
@@ -671,6 +674,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - [OG](#-prof-dr-osman-günay--en-popüler-hoca-1-oy)
+  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//Mesleki%20Seçmeli/Discrete%20Mathematics)
 
 
 #### 📘 Fluid Mechanics 
@@ -688,7 +692,6 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - [GGP](#-dr-görke-gürel-peközer)
-    - [KAK](#-prof-dr-kamuran-a-kadipaşaoğlu)
   - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//Mesleki%20Seçmeli/Genetic%20Engineering)
 
 
@@ -705,6 +708,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - [SÖ](#-doç-dr-sakip-önder)
+  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//Mesleki%20Seçmeli/Instrumental%20Analysis)
 
 
 #### 📘 Introduction to Neural Engineering 
@@ -713,6 +717,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - [GS](#-dr-görkem-serbes)
+  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//Mesleki%20Seçmeli/Introduction%20to%20Neural%20Engineering)
 
 
 #### 📘 Introduction to Nuclear Medicine 
@@ -730,12 +735,14 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - [GS](#-dr-görkem-serbes)
+  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//Mesleki%20Seçmeli/Machine%20Learning%20in%20Biomedical%20Engineering)
 
 
 #### 📘 Medical Device Development Guidelines & Regulation 
   - 🏷️ **Ders Tipi:** Mesleki Seçmeli
   - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//Mesleki%20Seçmeli/Medical%20Device%20Development%20Guidelines%20&%20Regulation)
 
 
 #### 📘 Medical Informatics 
@@ -744,6 +751,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - [GS](#-dr-görkem-serbes)
+  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//Mesleki%20Seçmeli/Medical%20Informatics)
 
 
 #### 📘 Medical Instrumentation Safety 
@@ -752,6 +760,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - [SÖ](#-doç-dr-sakip-önder)
+  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//Mesleki%20Seçmeli/Medical%20Instrumentation%20Safety)
 
 
 #### 📘 Nanotechnology & Nanomaterials 
@@ -760,6 +769,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - [TY](#-prof-dr-taylan-yetki̇n)
+  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//Mesleki%20Seçmeli/Nanotechnology%20&%20Nanomaterials)
 
 
 #### 📘 Neurophysiology & Applications 
@@ -768,6 +778,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - [GS](#-dr-görkem-serbes)
+  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//Mesleki%20Seçmeli/Neurophysiology%20&%20Applications)
 
 
 #### 📘 Occupational Elective 1-1 
@@ -830,6 +841,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - [KAK](#-prof-dr-kamuran-a-kadipaşaoğlu)
+  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//Mesleki%20Seçmeli/Physiological%20Control%20Systems)
 
 
 #### 📘 Quantum Physics for Engineers 
@@ -838,6 +850,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - [TY](#-prof-dr-taylan-yetki̇n)
+  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//Mesleki%20Seçmeli/Quantum%20Physics%20for%20Engineers)
 
 
 #### 📘 Robotics for Healthcare 
@@ -846,6 +859,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - [AA](#-doç-dr-ali-akpek)
+  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//Mesleki%20Seçmeli/Robotics%20for%20Healthcare)
 
 
 #### 📘 Special Topics in Biomedical Engineering 
@@ -854,6 +868,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - [OG](#-prof-dr-osman-günay--en-popüler-hoca-1-oy)
+  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//Mesleki%20Seçmeli/Special%20Topics%20in%20Biomedical%20Engineering)
 
 
 #### 📘 System Identification 
@@ -862,6 +877,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - [KAK](#-prof-dr-kamuran-a-kadipaşaoğlu)
+  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//Mesleki%20Seçmeli/System%20Identification)
 
 ### 🗓 Artık Güncel Müfredata Dahil Olmayan Dersler
 
@@ -921,7 +937,6 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
   - 📖 [Physiological Control Systems](#-physiological-control-systems)
   - 📖 [System Identification](#-system-identification)
   - 📖 [Biomedical System Estimation](#-biomedical-system-estimation)
-  - 📖 [Genetic Engineering](#-genetic-engineering)
 - ⭐ **Yıldız Sayıları:**
   - 🎭 Dersi Zevkli Anlatır Mı:	★★★★★★★☆☆☆
   - 🛣️ Dersi Kolay Geçer Miyim:	★★★★☆☆☆☆☆☆
