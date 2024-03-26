@@ -12,19 +12,6 @@
             ]
         },
         {
-            "ad": "Electronic Analogy",
-            "yil": 2,
-            "donem": "Bahar",
-            "tip": "Zorunlu",
-            "dersi_veren_hocalar": [
-                {
-                    "kisaltma": "İC",
-                    "ad": "Dr. İsmail CANTÜRK"
-                }
-            ],
-            "guncel_mi": true
-        },
-        {
             "ad": "Mathematics 1",
             "yil": 1,
             "donem": "Güz",
@@ -131,19 +118,6 @@
             "donem": "Bahar",
             "tip": "Zorunlu",
             "dersi_veren_hocalar": [],
-            "guncel_mi": true
-        },
-        {
-            "ad": "Probability& Biostatistics",
-            "yil": 1,
-            "donem": "Bahar",
-            "tip": "Zorunlu",
-            "dersi_veren_hocalar": [
-                {
-                    "kisaltma": "OG",
-                    "ad": "Prof. Dr. Osman GÜNAY"
-                }
-            ],
             "guncel_mi": true
         },
         {
@@ -970,6 +944,58 @@
                 {
                     "kisaltma": "İC",
                     "ad": "Dr. İsmail CANTÜRK"
+                }
+            ],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Biomedical Sensors & Actuators",
+            "yil": 0,
+            "donem": "yok",
+            "tip": "Mesleki Seçmeli",
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "GS",
+                    "ad": "Dr. Görkem SERBES"
+                }
+            ],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Cell and Tissue Engineering",
+            "yil": 0,
+            "donem": "yok",
+            "tip": "Mesleki Seçmeli",
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "GGP",
+                    "ad": "Dr. Görke GÜREL PEKÖZER"
+                }
+            ],
+            "guncel_mi": false
+        },
+        {
+            "ad": "Advenced Engineering Mathematics",
+            "yil": 0,
+            "donem": "yok",
+            "tip": "Mesleki Seçmeli",
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "KAK",
+                    "ad": "Prof. Dr. Kamuran A. KADIPAŞAOĞLU"
+                }
+            ],
+            "guncel_mi": true
+        },
+        {
+            "ad": "Cardiovascular Mechanics",
+            "yil": 0,
+            "donem": "yok",
+            "tip": "Mesleki Seçmeli",
+            "dersi_veren_hocalar": [
+                {
+                    "kisaltma": "KAK",
+                    "ad": "Prof. Dr. Kamuran A. KADIPAŞAOĞLU"
                 }
             ],
             "guncel_mi": true

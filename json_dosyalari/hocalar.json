@@ -8,7 +8,6 @@
             "link": "https://avesis.yildiz.edu.tr/icanturk",
             "erkek_mi": true,
             "dersler": [
-                "Electronic Analogy",
                 "Analog Electronics",
                 "Biosignal Processing",
                 "Introduction to Microcontroller Programming",
@@ -52,7 +51,9 @@
                 "Signals & Systems",
                 "Physiological Control Systems",
                 "System Identification",
-                "Biomedical System Estimation"
+                "Biomedical System Estimation",
+                "Advenced Engineering Mathematics",
+                "Cardiovascular Mechanics"
             ],
             "hoca_aktif_gorevde_mi": true,
             "anlatim_puani": 70,
@@ -132,7 +133,8 @@
                 "Machine Learning in Biomedical Engineering",
                 "Medical Informatics",
                 "Neurophysiology & Applications",
-                "Introduction to Neural Engineering"
+                "Introduction to Neural Engineering",
+                "Biomedical Sensors & Actuators"
             ],
             "hoca_aktif_gorevde_mi": true
         },
@@ -145,7 +147,8 @@
                 "Biothermodynamics",
                 "Biochemistry",
                 "Cell Biology",
-                "Genetic Engineering"
+                "Genetic Engineering",
+                "Cell and Tissue Engineering"
             ],
             "hoca_aktif_gorevde_mi": true,
             "anlatim_puani": 100,

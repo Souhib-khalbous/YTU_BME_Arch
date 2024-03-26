@@ -260,15 +260,6 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
   - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//1-2/Physics%202)
 
 
-#### 📘 Probability& Biostatistics 
-  - 🏷️ **Ders Tipi:** Zorunlu
-  - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
-  - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - [OG](#-prof-dr-osman-günay--en-popüler-hoca-1-oy)
-  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//1-2/Probability&%20Biostatistics)
-
-
 #### 📘 Turkish language 2 
   - 🏷️ **Ders Tipi:** Zorunlu
   - ⭐ **Yıldız Sayıları:**
@@ -344,15 +335,6 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - [İC](#-dr-i̇smail-cantürk)
   - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//2-2/Analog%20Electronics)
-
-
-#### 📘 Electronic Analogy 
-  - 🏷️ **Ders Tipi:** Zorunlu
-  - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
-  - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - [İC](#-dr-i̇smail-cantürk)
-  - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//2-2/Electronic%20Analogy)
 
 
 #### 📘 Logic Design 
@@ -560,6 +542,14 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
 ### 🗓 Mesleki Seçmeli
 
 
+#### 📘 Advenced Engineering Mathematics 
+  - 🏷️ **Ders Tipi:** Mesleki Seçmeli
+  - ⭐ **Yıldız Sayıları:**
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
+  - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
+    - [KAK](#-prof-dr-kamuran-a-kadipaşaoğlu)
+
+
 #### 📘 Analog Electronic Applications 
   - 🏷️ **Ders Tipi:** Mesleki Seçmeli
   - ⭐ **Yıldız Sayıları:**
@@ -623,6 +613,14 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
   - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//Mesleki%20Seçmeli/Biomedical%20Optics%20&%20Lasers)
 
 
+#### 📘 Biomedical Sensors & Actuators 
+  - 🏷️ **Ders Tipi:** Mesleki Seçmeli
+  - ⭐ **Yıldız Sayıları:**
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
+  - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
+    - [GS](#-dr-görkem-serbes)
+
+
 #### 📘 Biomedical System Estimation 
   - 🏷️ **Ders Tipi:** Mesleki Seçmeli
   - ⭐ **Yıldız Sayıları:**
@@ -648,6 +646,14 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - [SÖ](#-doç-dr-sakip-önder)
   - 📂 [Ders Klasörü](https://github.com/Souhib-khalbous/YTU_BME_Arch/tree/main//Mesleki%20Seçmeli/Biosensors)
+
+
+#### 📘 Cardiovascular Mechanics 
+  - 🏷️ **Ders Tipi:** Mesleki Seçmeli
+  - ⭐ **Yıldız Sayıları:**
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
+  - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
+    - [KAK](#-prof-dr-kamuran-a-kadipaşaoğlu)
 
 
 #### 📘 Clinical Engineering 
@@ -882,6 +888,16 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
 ### 🗓 Artık Güncel Müfredata Dahil Olmayan Dersler
 
 
+#### 📘 Cell and Tissue Engineering 
+  - 🏷️ **Ders Tipi:** Mesleki Seçmeli
+  - ⭐ **Yıldız Sayıları:**
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/zF7xUKoWrJiJtHzV9) anonim şekilde oylamaya katılabilirsiniz.
+  - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
+    - [GGP](#-dr-görke-gürel-peközer)
+  - ℹ️ Dersin içeriği güncel değil
+    - Bu ders artık müfredata dahil değildir. Ya tamamen kaldırılmış, ya ismi ve içeriği güncellenmiş ya da birleştirilmiş olabilir.
+
+
 #### 📘 Computer Aided Design 
   - 🏷️ **Ders Tipi:** Zorunlu
   - ⭐ **Yıldız Sayıları:**
@@ -937,6 +953,8 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
   - 📖 [Physiological Control Systems](#-physiological-control-systems)
   - 📖 [System Identification](#-system-identification)
   - 📖 [Biomedical System Estimation](#-biomedical-system-estimation)
+  - 📖 [Advenced Engineering Mathematics](#-advenced-engineering-mathematics)
+  - 📖 [Cardiovascular Mechanics](#-cardiovascular-mechanics)
 - ⭐ **Yıldız Sayıları:**
   - 🎭 Dersi Zevkli Anlatır Mı:	★★★★★★★☆☆☆
   - 🛣️ Dersi Kolay Geçer Miyim:	★★★★☆☆☆☆☆☆
@@ -1052,6 +1070,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
   - 📖 [Biochemistry](#-biochemistry)
   - 📖 [Cell Biology](#-cell-biology)
   - 📖 [Genetic Engineering](#-genetic-engineering)
+  - 📖 [Cell and Tissue Engineering](#-cell-and-tissue-engineering)
 - ⭐ **Yıldız Sayıları:**
   - 🎭 Dersi Zevkli Anlatır Mı:	★★★★★★★★★★
   - 🛣️ Dersi Kolay Geçer Miyim:	★★★★★★★★★★
@@ -1074,6 +1093,7 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
   - 📖 [Medical Informatics](#-medical-informatics)
   - 📖 [Neurophysiology & Applications](#-neurophysiology--applications)
   - 📖 [Introduction to Neural Engineering](#-introduction-to-neural-engineering)
+  - 📖 [Biomedical Sensors & Actuators](#-biomedical-sensors--actuators)
 - ⭐ **Yıldız Sayıları:**
   - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://forms.gle/GmgA72FXY9oYJ2iS6) anonim şekilde oylamaya katılabilirsiniz.
 
@@ -1085,7 +1105,6 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Siz de [linkten](https://forms.gle/iJa1Ebn9kCGTDu1Y9) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
-  - 📖 [Electronic Analogy](#-electronic-analogy)
   - 📖 [Analog Electronics](#-analog-electronics)
   - 📖 [Biosignal Processing](#-biosignal-processing)
   - 📖 [Introduction to Microcontroller Programming](#-introduction-to-microcontroller-programming)
